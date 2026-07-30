@@ -1,0 +1,4417 @@
+[
+  {
+    "id": 1,
+    "word": "boomen",
+    "wordArabic": "يزدهر | ينمو بسرعة"
+  },
+  {
+    "id": 2,
+    "word": "gruppen",
+    "wordArabic": "يَتَجمّع"
+  },
+  {
+    "id": 3,
+    "word": "wehen",
+    "wordArabic": "تَهُب الرياح"
+  },
+  {
+    "id": 4,
+    "word": "abbiegen",
+    "wordArabic": "يدور | ينحني"
+  },
+  {
+    "id": 5,
+    "word": "abbrechen",
+    "wordArabic": "يُلغي | يوقف | يقطع"
+  },
+  {
+    "id": 6,
+    "word": "abdecken",
+    "wordArabic": "يُغطي (بالكامل) | يَحجب"
+  },
+  {
+    "id": 7,
+    "word": "ab | abfahren",
+    "wordArabic": "ينطلق | يغادر"
+  },
+  {
+    "id": 8,
+    "word": "abgreifen",
+    "wordArabic": "يمسك | يلتقط | يغتنم"
+  },
+  {
+    "id": 9,
+    "word": "abheben",
+    "wordArabic": "يرفع | يسحب (المال)"
+  },
+  {
+    "id": 10,
+    "word": "abholen",
+    "wordArabic": "يأخذ | يستلم | يلتقط"
+  },
+  {
+    "id": 11,
+    "word": "abhängen",
+    "wordArabic": "يتعلّق | يترك وراءه"
+  },
+  {
+    "id": 12,
+    "word": "ablehnen",
+    "wordArabic": "يرفض | يصدّ | يعارض"
+  },
+  {
+    "id": 13,
+    "word": "ableiten",
+    "wordArabic": "يشتق | يستنتج | يستخرج"
+  },
+  {
+    "id": 14,
+    "word": "ablesen",
+    "wordArabic": "يتلو | يقرأ"
+  },
+  {
+    "id": 15,
+    "word": "abmachen",
+    "wordArabic": "يوافق"
+  },
+  {
+    "id": 16,
+    "word": "abmelden",
+    "wordArabic": "يلغي التسجيل"
+  },
+  {
+    "id": 17,
+    "word": "abnehmen",
+    "wordArabic": "يفقد وزن | ينزع"
+  },
+  {
+    "id": 18,
+    "word": "abonnieren",
+    "wordArabic": "يشترك"
+  },
+  {
+    "id": 19,
+    "word": "abreisen",
+    "wordArabic": "يرحل | يبدأ رحلة"
+  },
+  {
+    "id": 20,
+    "word": "absagen",
+    "wordArabic": "إلغاء | يلغي"
+  },
+  {
+    "id": 21,
+    "word": "abschalten",
+    "wordArabic": "يُطفئ | يوقف تشغيل"
+  },
+  {
+    "id": 22,
+    "word": "abschließen",
+    "wordArabic": "ينهي | يغلق | يقفل"
+  },
+  {
+    "id": 23,
+    "word": "abschmecken",
+    "wordArabic": "يتذوق"
+  },
+  {
+    "id": 24,
+    "word": "abschneiden",
+    "wordArabic": "يقطع | يبتر"
+  },
+  {
+    "id": 25,
+    "word": "abschrecken",
+    "wordArabic": "يردع"
+  },
+  {
+    "id": 26,
+    "word": "abschreiben",
+    "wordArabic": "ينسخ"
+  },
+  {
+    "id": 27,
+    "word": "abschwächen",
+    "wordArabic": "يُخفِّف | يُضعف جزئيًا"
+  },
+  {
+    "id": 28,
+    "word": "abstellen",
+    "wordArabic": "يُطفئ | يُوقف"
+  },
+  {
+    "id": 29,
+    "word": "abtrocknen",
+    "wordArabic": "يجفف"
+  },
+  {
+    "id": 30,
+    "word": "achten",
+    "wordArabic": "يتنبه | يراقب"
+  },
+  {
+    "id": 31,
+    "word": "ahnen",
+    "wordArabic": "يَفترض | يَشُك"
+  },
+  {
+    "id": 32,
+    "word": "akzeptieren",
+    "wordArabic": "يَقبل"
+  },
+  {
+    "id": 33,
+    "word": "alarmieren",
+    "wordArabic": "يُنذر"
+  },
+  {
+    "id": 34,
+    "word": "amüsieren",
+    "wordArabic": "يستمتع"
+  },
+  {
+    "id": 35,
+    "word": "analysieren",
+    "wordArabic": "يُحلّل"
+  },
+  {
+    "id": 36,
+    "word": "anbauen",
+    "wordArabic": "يزرع"
+  },
+  {
+    "id": 37,
+    "word": "anbieten",
+    "wordArabic": "يعرض"
+  },
+  {
+    "id": 38,
+    "word": "anbraten",
+    "wordArabic": "يحمّص"
+  },
+  {
+    "id": 39,
+    "word": "anfangen",
+    "wordArabic": "يبدأ | يشرع | يباشر"
+  },
+  {
+    "id": 40,
+    "word": "anfassen",
+    "wordArabic": "يلمس"
+  },
+  {
+    "id": 41,
+    "word": "angestellten",
+    "wordArabic": "يُوظّف"
+  },
+  {
+    "id": 42,
+    "word": "anhalten",
+    "wordArabic": "يتوقف (بشكل مؤقت)"
+  },
+  {
+    "id": 43,
+    "word": "anhauen",
+    "wordArabic": "يضرب | يرجو"
+  },
+  {
+    "id": 44,
+    "word": "anhören",
+    "wordArabic": "يصغي"
+  },
+  {
+    "id": 45,
+    "word": "ankommen",
+    "wordArabic": "يصل إلى مكان"
+  },
+  {
+    "id": 46,
+    "word": "anmelden",
+    "wordArabic": "يسجل | يسجل دخول"
+  },
+  {
+    "id": 47,
+    "word": "annehmen",
+    "wordArabic": "يقبل | يستقبل"
+  },
+  {
+    "id": 48,
+    "word": "anpassen",
+    "wordArabic": "يعدل | يكيف"
+  },
+  {
+    "id": 49,
+    "word": "anprobieren",
+    "wordArabic": "يجرّب (ألبسة)"
+  },
+  {
+    "id": 50,
+    "word": "anreden",
+    "wordArabic": "يخاطب | يتحدّث مع"
+  },
+  {
+    "id": 51,
+    "word": "anreisen",
+    "wordArabic": "يصل | يسافر"
+  },
+  {
+    "id": 52,
+    "word": "anrufen",
+    "wordArabic": "يتصل"
+  },
+  {
+    "id": 53,
+    "word": "ansagen",
+    "wordArabic": "يُعلن"
+  },
+  {
+    "id": 54,
+    "word": "anschauen",
+    "wordArabic": "يشاهد"
+  },
+  {
+    "id": 55,
+    "word": "ansitzen",
+    "wordArabic": "يجلس | يلتصق"
+  },
+  {
+    "id": 56,
+    "word": "ansprachen",
+    "wordArabic": "يخاطب"
+  },
+  {
+    "id": 57,
+    "word": "ansprechen",
+    "wordArabic": "يخاطب | يطرح موضوعاً"
+  },
+  {
+    "id": 58,
+    "word": "zweifeln",
+    "wordArabic": "يَشُكّ | يُشَكِّك"
+  },
+  {
+    "id": 59,
+    "word": "ansteigen",
+    "wordArabic": "يَرتَفِع | يَزداد"
+  },
+  {
+    "id": 60,
+    "word": "anstellen",
+    "wordArabic": "يُعيّن | يُوظّف"
+  },
+  {
+    "id": 61,
+    "word": "anstoßen",
+    "wordArabic": "يُلمّح | يُحفّز"
+  },
+  {
+    "id": 62,
+    "word": "anstrengen",
+    "wordArabic": "يُرهق"
+  },
+  {
+    "id": 63,
+    "word": "antworten",
+    "wordArabic": "يجيب"
+  },
+  {
+    "id": 64,
+    "word": "anwerben",
+    "wordArabic": "يوظف | يجذب العمال"
+  },
+  {
+    "id": 65,
+    "word": "anwinkeln",
+    "wordArabic": "يحني"
+  },
+  {
+    "id": 66,
+    "word": "anzeigen",
+    "wordArabic": "يعلن"
+  },
+  {
+    "id": 67,
+    "word": "anziehen",
+    "wordArabic": "يرتدي ملابسه"
+  },
+  {
+    "id": 68,
+    "word": "arbeiten",
+    "wordArabic": "يعمل"
+  },
+  {
+    "id": 69,
+    "word": "argumentieren",
+    "wordArabic": "يجادل"
+  },
+  {
+    "id": 70,
+    "word": "atmen",
+    "wordArabic": "يتنفّس"
+  },
+  {
+    "id": 71,
+    "word": "aufbauen",
+    "wordArabic": "يبني | يُنشئ | يشيّد"
+  },
+  {
+    "id": 72,
+    "word": "aufbewahren",
+    "wordArabic": "يُحفظ | يُخزن"
+  },
+  {
+    "id": 73,
+    "word": "aufessen",
+    "wordArabic": "يأكل الطبق بأكمله"
+  },
+  {
+    "id": 74,
+    "word": "auffordern",
+    "wordArabic": "يطلب | يدعو | يسأل"
+  },
+  {
+    "id": 75,
+    "word": "auffressen",
+    "wordArabic": "يفترس | يأكل"
+  },
+  {
+    "id": 76,
+    "word": "aufgeben",
+    "wordArabic": "يستسلم"
+  },
+  {
+    "id": 77,
+    "word": "aufhalten",
+    "wordArabic": "يوقف | يعطل | يمنع"
+  },
+  {
+    "id": 78,
+    "word": "aufheizen",
+    "wordArabic": "يُسخّن | يرفع الحرارة"
+  },
+  {
+    "id": 79,
+    "word": "aufkleben",
+    "wordArabic": "يلصق (منشور على سطح)"
+  },
+  {
+    "id": 80,
+    "word": "aufnehmen",
+    "wordArabic": "يسجّل | يستقبل | يمتص"
+  },
+  {
+    "id": 81,
+    "word": "aufpassen",
+    "wordArabic": "ينتبه | يحترس | يعتني"
+  },
+  {
+    "id": 82,
+    "word": "aufregen",
+    "wordArabic": "يزعج | يثير الغضب"
+  },
+  {
+    "id": 83,
+    "word": "aufrufen",
+    "wordArabic": "يدعو | يستدعي | يطلب"
+  },
+  {
+    "id": 84,
+    "word": "aufräumen",
+    "wordArabic": "يرتب"
+  },
+  {
+    "id": 85,
+    "word": "aufschlagen",
+    "wordArabic": "يخفق"
+  },
+  {
+    "id": 86,
+    "word": "aufstehen",
+    "wordArabic": "ينهض"
+  },
+  {
+    "id": 87,
+    "word": "aufsteigen",
+    "wordArabic": "يرتفع | يصعد"
+  },
+  {
+    "id": 88,
+    "word": "aufstellen",
+    "wordArabic": "يُنصب | يركّب"
+  },
+  {
+    "id": 89,
+    "word": "auftauchen",
+    "wordArabic": "يظهر"
+  },
+  {
+    "id": 90,
+    "word": "aufteilen",
+    "wordArabic": "يوزّع | يقسّم"
+  },
+  {
+    "id": 91,
+    "word": "auftreten",
+    "wordArabic": "يؤدي على المسرح"
+  },
+  {
+    "id": 92,
+    "word": "aufwachen",
+    "wordArabic": "يستيقظ"
+  },
+  {
+    "id": 93,
+    "word": "aufwachsen",
+    "wordArabic": "ينشأ"
+  },
+  {
+    "id": 94,
+    "word": "ausbilden",
+    "wordArabic": "يُدرّب | يُؤهّل مهنياً"
+  },
+  {
+    "id": 95,
+    "word": "ausbrechen",
+    "wordArabic": "ينفجر | يهرب"
+  },
+  {
+    "id": 96,
+    "word": "ausdrucken",
+    "wordArabic": "يطبع (بشكل ورقي)"
+  },
+  {
+    "id": 97,
+    "word": "ausdrücken",
+    "wordArabic": "يعبّر"
+  },
+  {
+    "id": 98,
+    "word": "ausgeben",
+    "wordArabic": "يُنفق | يصرف"
+  },
+  {
+    "id": 99,
+    "word": "ausgehen",
+    "wordArabic": "يخرج للتنزه"
+  },
+  {
+    "id": 100,
+    "word": "auslösen",
+    "wordArabic": "يُشغل | يُثير | يفعّل"
+  },
+  {
+    "id": 101,
+    "word": "ausrichten",
+    "wordArabic": "يحاذي | يرتّب"
+  },
+  {
+    "id": 102,
+    "word": "ausruhen",
+    "wordArabic": "يستريح"
+  },
+  {
+    "id": 103,
+    "word": "ausräumen",
+    "wordArabic": "يرتب | يخلي"
+  },
+  {
+    "id": 104,
+    "word": "aussagen",
+    "wordArabic": "يشهد"
+  },
+  {
+    "id": 105,
+    "word": "ausschalten",
+    "wordArabic": "يطفئ | يعطّل"
+  },
+  {
+    "id": 106,
+    "word": "ausschlafen",
+    "wordArabic": "يستغرق في النوم"
+  },
+  {
+    "id": 107,
+    "word": "aussehen",
+    "wordArabic": "يبدو"
+  },
+  {
+    "id": 108,
+    "word": "austauschen",
+    "wordArabic": "يقايض"
+  },
+  {
+    "id": 109,
+    "word": "ausverkaufen",
+    "wordArabic": "يبيع بالكامل | نَفِذَ"
+  },
+  {
+    "id": 110,
+    "word": "backen",
+    "wordArabic": "يخبز"
+  },
+  {
+    "id": 111,
+    "word": "baden",
+    "wordArabic": "يستحم | يسبح"
+  },
+  {
+    "id": 112,
+    "word": "basteln",
+    "wordArabic": "يركب | يصنع"
+  },
+  {
+    "id": 113,
+    "word": "bauchtanzen",
+    "wordArabic": "يرقص | رقص شرقي"
+  },
+  {
+    "id": 114,
+    "word": "bauen",
+    "wordArabic": "يَبني | يُنشئ"
+  },
+  {
+    "id": 115,
+    "word": "beachten",
+    "wordArabic": "ينتبه | يلتزم | يراقب"
+  },
+  {
+    "id": 116,
+    "word": "beantragen",
+    "wordArabic": "يتقدّم بطلب"
+  },
+  {
+    "id": 117,
+    "word": "beantworten",
+    "wordArabic": "يجيب على"
+  },
+  {
+    "id": 118,
+    "word": "bearbeiten",
+    "wordArabic": "يعدّل | يحرّر"
+  },
+  {
+    "id": 119,
+    "word": "bedanken",
+    "wordArabic": "يشكر"
+  },
+  {
+    "id": 120,
+    "word": "bedeuten",
+    "wordArabic": "يعني | يقصد"
+  },
+  {
+    "id": 121,
+    "word": "bedienen",
+    "wordArabic": "يخدم | يشغّل"
+  },
+  {
+    "id": 122,
+    "word": "bedrohen",
+    "wordArabic": "يُهدِّد (شخص)"
+  },
+  {
+    "id": 123,
+    "word": "beeindrucken",
+    "wordArabic": "يُؤثّر | يثير الإعجاب"
+  },
+  {
+    "id": 124,
+    "word": "beeinflussen",
+    "wordArabic": "يؤثّر"
+  },
+  {
+    "id": 125,
+    "word": "beenden",
+    "wordArabic": "يكمل | ينهي"
+  },
+  {
+    "id": 126,
+    "word": "befinden",
+    "wordArabic": "يُقيِّم | يحدّد | يجد"
+  },
+  {
+    "id": 127,
+    "word": "befragen",
+    "wordArabic": "يسأل"
+  },
+  {
+    "id": 128,
+    "word": "befreien",
+    "wordArabic": "يحرّر"
+  },
+  {
+    "id": 129,
+    "word": "befürchten",
+    "wordArabic": "يخشى | يخاف | يتوجس"
+  },
+  {
+    "id": 130,
+    "word": "beginnen",
+    "wordArabic": "يبدأ"
+  },
+  {
+    "id": 131,
+    "word": "begleiten",
+    "wordArabic": "يرافق | يصاحب"
+  },
+  {
+    "id": 132,
+    "word": "begreifen",
+    "wordArabic": "يفهم | يستوعب"
+  },
+  {
+    "id": 133,
+    "word": "begrenzen",
+    "wordArabic": "يَحد | يضع حد | يحتجز"
+  },
+  {
+    "id": 134,
+    "word": "begründen",
+    "wordArabic": "يبرر | يعلّل | يوضّح"
+  },
+  {
+    "id": 135,
+    "word": "behalten",
+    "wordArabic": "يحتفظ"
+  },
+  {
+    "id": 136,
+    "word": "behaupten",
+    "wordArabic": "يجزم | يزعم | يدّعي"
+  },
+  {
+    "id": 137,
+    "word": "beherrschen",
+    "wordArabic": "يتقن | يسيطر | يتحكم"
+  },
+  {
+    "id": 138,
+    "word": "beibringen",
+    "wordArabic": "يُعلِّم | يُدرِّس"
+  },
+  {
+    "id": 139,
+    "word": "beitragen",
+    "wordArabic": "يُساهم | يُشارك"
+  },
+  {
+    "id": 140,
+    "word": "beißen",
+    "wordArabic": "يعض"
+  },
+  {
+    "id": 141,
+    "word": "bekommen",
+    "wordArabic": "يحصل على | يستلم"
+  },
+  {
+    "id": 142,
+    "word": "belasten",
+    "wordArabic": "يُثقل | يحمِّل | يلوِّث"
+  },
+  {
+    "id": 143,
+    "word": "belegen",
+    "wordArabic": "يحجز | يغطي"
+  },
+  {
+    "id": 144,
+    "word": "beleidigen",
+    "wordArabic": "يُهين"
+  },
+  {
+    "id": 145,
+    "word": "bellen",
+    "wordArabic": "ينبح"
+  },
+  {
+    "id": 146,
+    "word": "bemerken",
+    "wordArabic": "يلاحظ"
+  },
+  {
+    "id": 147,
+    "word": "benehmen",
+    "wordArabic": "يتصرف بشكل لائق"
+  },
+  {
+    "id": 148,
+    "word": "benutzen | nutzen",
+    "wordArabic": "يستخدم"
+  },
+  {
+    "id": 149,
+    "word": "beobachten",
+    "wordArabic": "يراقب | يشاهد"
+  },
+  {
+    "id": 150,
+    "word": "beraten",
+    "wordArabic": "ينصح"
+  },
+  {
+    "id": 151,
+    "word": "beratschlagen",
+    "wordArabic": "يتشاور مع الآخرين"
+  },
+  {
+    "id": 152,
+    "word": "bereisen",
+    "wordArabic": "يَجوب منطقة"
+  },
+  {
+    "id": 153,
+    "word": "bereiten",
+    "wordArabic": "يحضّر | يجهّز"
+  },
+  {
+    "id": 154,
+    "word": "berichten",
+    "wordArabic": "يُبلِغ | يُخبِر | يروي"
+  },
+  {
+    "id": 155,
+    "word": "berühren",
+    "wordArabic": "يلمس | يلامس"
+  },
+  {
+    "id": 156,
+    "word": "beschreiben",
+    "wordArabic": "يصف"
+  },
+  {
+    "id": 157,
+    "word": "beschriften",
+    "wordArabic": "يكتب | يضع لصاقات"
+  },
+  {
+    "id": 158,
+    "word": "beschweren",
+    "wordArabic": "يشتكي"
+  },
+  {
+    "id": 159,
+    "word": "beschädigen",
+    "wordArabic": "يؤذي | يُضر"
+  },
+  {
+    "id": 160,
+    "word": "beschäftigen",
+    "wordArabic": "يوظّف | ينشغل | يحتل"
+  },
+  {
+    "id": 161,
+    "word": "besetzen",
+    "wordArabic": "يَشغل | مشغول | يحتل"
+  },
+  {
+    "id": 162,
+    "word": "besichtigen",
+    "wordArabic": "يزور (أماكن)"
+  },
+  {
+    "id": 163,
+    "word": "besiedeln",
+    "wordArabic": "يستقر | يستعمر"
+  },
+  {
+    "id": 164,
+    "word": "besiegen",
+    "wordArabic": "يهزم"
+  },
+  {
+    "id": 165,
+    "word": "besorgen",
+    "wordArabic": "يؤمِّن"
+  },
+  {
+    "id": 166,
+    "word": "besprechen",
+    "wordArabic": "يناقش"
+  },
+  {
+    "id": 167,
+    "word": "bestehen",
+    "wordArabic": "يتكون"
+  },
+  {
+    "id": 168,
+    "word": "bestellen",
+    "wordArabic": "يَطلب | يَحجز"
+  },
+  {
+    "id": 169,
+    "word": "bestimmen",
+    "wordArabic": "يحدّد | يعيّن | يقرّر"
+  },
+  {
+    "id": 170,
+    "word": "bestreuen",
+    "wordArabic": "يرش"
+  },
+  {
+    "id": 171,
+    "word": "bestätigen",
+    "wordArabic": "يؤكد | يُثبِت"
+  },
+  {
+    "id": 172,
+    "word": "bestürzen",
+    "wordArabic": "يُذهل | يُربك | يزعج"
+  },
+  {
+    "id": 173,
+    "word": "besuchen",
+    "wordArabic": "يزور (أشخاص)"
+  },
+  {
+    "id": 174,
+    "word": "beteiligen",
+    "wordArabic": "يشارك"
+  },
+  {
+    "id": 175,
+    "word": "betonen",
+    "wordArabic": "يؤكّد | يُشدِّد على"
+  },
+  {
+    "id": 176,
+    "word": "betrachten",
+    "wordArabic": "ينظر | يتأمل | يَعتبر"
+  },
+  {
+    "id": 177,
+    "word": "betragen",
+    "wordArabic": "يَبلغ | يقدّر | يحسب"
+  },
+  {
+    "id": 178,
+    "word": "betreiben",
+    "wordArabic": "يشغّل | يتابع | يمارس"
+  },
+  {
+    "id": 179,
+    "word": "betreten",
+    "wordArabic": "يدخل مكاناً أو يطأ شيئاً"
+  },
+  {
+    "id": 180,
+    "word": "betreuen",
+    "wordArabic": "يرعى | يعتني | يتابع"
+  },
+  {
+    "id": 181,
+    "word": "betroffen",
+    "wordArabic": "يتأثّر"
+  },
+  {
+    "id": 182,
+    "word": "beurteilen",
+    "wordArabic": "يَحكم | يَحكم على"
+  },
+  {
+    "id": 183,
+    "word": "bewegen",
+    "wordArabic": "يتحرك"
+  },
+  {
+    "id": 184,
+    "word": "bewerben sich",
+    "wordArabic": "يتقدم"
+  },
+  {
+    "id": 185,
+    "word": "bewerten",
+    "wordArabic": "يُقيّم"
+  },
+  {
+    "id": 186,
+    "word": "bewundern",
+    "wordArabic": "يُعجَب بـ"
+  },
+  {
+    "id": 187,
+    "word": "bewältigen",
+    "wordArabic": "يتغلب على"
+  },
+  {
+    "id": 188,
+    "word": "bezahlen",
+    "wordArabic": "يدفع"
+  },
+  {
+    "id": 189,
+    "word": "bezeichnen",
+    "wordArabic": "يصف | يسمي | يُشير"
+  },
+  {
+    "id": 190,
+    "word": "beziehen",
+    "wordArabic": "يبدأ | يُشير إلى"
+  },
+  {
+    "id": 191,
+    "word": "bieten",
+    "wordArabic": "يقدّم | يعرض | يضفي"
+  },
+  {
+    "id": 192,
+    "word": "bitten",
+    "wordArabic": "يطلب | يسأل"
+  },
+  {
+    "id": 193,
+    "word": "bleiben",
+    "wordArabic": "يبقى"
+  },
+  {
+    "id": 194,
+    "word": "blicken",
+    "wordArabic": "ينظر"
+  },
+  {
+    "id": 195,
+    "word": "blühen",
+    "wordArabic": "يزهر | يتفتح"
+  },
+  {
+    "id": 196,
+    "word": "bombardieren",
+    "wordArabic": "يقصف"
+  },
+  {
+    "id": 197,
+    "word": "booten",
+    "wordArabic": "يُبحر"
+  },
+  {
+    "id": 198,
+    "word": "boxen",
+    "wordArabic": "يلاكم"
+  },
+  {
+    "id": 199,
+    "word": "braten",
+    "wordArabic": "يقلي | يشوي"
+  },
+  {
+    "id": 200,
+    "word": "brauchen",
+    "wordArabic": "يحتاج"
+  },
+  {
+    "id": 201,
+    "word": "brechen",
+    "wordArabic": "يكسر"
+  },
+  {
+    "id": 202,
+    "word": "bremsen",
+    "wordArabic": "يفرمل | يبطئ"
+  },
+  {
+    "id": 203,
+    "word": "brennen",
+    "wordArabic": "يحترق"
+  },
+  {
+    "id": 204,
+    "word": "bringen",
+    "wordArabic": "يجلب | يحضر | يوصل"
+  },
+  {
+    "id": 205,
+    "word": "brühen",
+    "wordArabic": "يغلي | يسلق"
+  },
+  {
+    "id": 206,
+    "word": "buchen",
+    "wordArabic": "يحجز"
+  },
+  {
+    "id": 207,
+    "word": "bummeln",
+    "wordArabic": "يتجول | يتنزه | يتمشى"
+  },
+  {
+    "id": 208,
+    "word": "bügeln",
+    "wordArabic": "يكوي"
+  },
+  {
+    "id": 209,
+    "word": "dahinschleichen",
+    "wordArabic": "يتسلّل"
+  },
+  {
+    "id": 210,
+    "word": "darstellen",
+    "wordArabic": "يمثّل | يوضّح | يصوّر"
+  },
+  {
+    "id": 211,
+    "word": "dauern",
+    "wordArabic": "يستمر"
+  },
+  {
+    "id": 212,
+    "word": "dazugeben",
+    "wordArabic": "يضيف (شيء موجود)"
+  },
+  {
+    "id": 213,
+    "word": "debattieren",
+    "wordArabic": "يناقش | يجادل"
+  },
+  {
+    "id": 214,
+    "word": "denken",
+    "wordArabic": "يفكر | يفكّر"
+  },
+  {
+    "id": 215,
+    "word": "diskutieren",
+    "wordArabic": "يناقش"
+  },
+  {
+    "id": 216,
+    "word": "drehen",
+    "wordArabic": "يصوّر | يدوّر"
+  },
+  {
+    "id": 217,
+    "word": "drucken",
+    "wordArabic": "يطبع"
+  },
+  {
+    "id": 218,
+    "word": "dröhnen",
+    "wordArabic": "يطن | يدوّي"
+  },
+  {
+    "id": 219,
+    "word": "drücken",
+    "wordArabic": "يضغط زر"
+  },
+  {
+    "id": 220,
+    "word": "durchfallen",
+    "wordArabic": "يَرْسُب | يَفْشَل"
+  },
+  {
+    "id": 221,
+    "word": "durchführen",
+    "wordArabic": "ينفّذ | يُنجِز"
+  },
+  {
+    "id": 222,
+    "word": "durchsetzen",
+    "wordArabic": "ينتشر | يؤكّد"
+  },
+  {
+    "id": 223,
+    "word": "aufhören",
+    "wordArabic": "يتوقّف | يكف"
+  },
+  {
+    "id": 224,
+    "word": "duzen",
+    "wordArabic": "يُخاطب (غير رسمي)"
+  },
+  {
+    "id": 225,
+    "word": "dürfen",
+    "wordArabic": "يُسمح له"
+  },
+  {
+    "id": 226,
+    "word": "eincremen",
+    "wordArabic": "يدهن كريم"
+  },
+  {
+    "id": 227,
+    "word": "einen",
+    "wordArabic": "يتَّحِدْ"
+  },
+  {
+    "id": 228,
+    "word": "einführen",
+    "wordArabic": "يقدم | يُدخِل | ينفذ"
+  },
+  {
+    "id": 229,
+    "word": "einigen sich",
+    "wordArabic": "يتفق"
+  },
+  {
+    "id": 230,
+    "word": "einkaufen",
+    "wordArabic": "يتسوّق"
+  },
+  {
+    "id": 231,
+    "word": "einladen",
+    "wordArabic": "يدعو"
+  },
+  {
+    "id": 232,
+    "word": "einleiten",
+    "wordArabic": "يبدأ | يقدّم"
+  },
+  {
+    "id": 233,
+    "word": "einloggen",
+    "wordArabic": "يسجل دخول"
+  },
+  {
+    "id": 234,
+    "word": "einmischen",
+    "wordArabic": "يتدخل"
+  },
+  {
+    "id": 235,
+    "word": "einnehmen",
+    "wordArabic": "يأخذ | يحتل"
+  },
+  {
+    "id": 236,
+    "word": "einpacken",
+    "wordArabic": "يوضّب"
+  },
+  {
+    "id": 237,
+    "word": "einparken",
+    "wordArabic": "يركن سيارة"
+  },
+  {
+    "id": 238,
+    "word": "einreiben",
+    "wordArabic": "يدهن"
+  },
+  {
+    "id": 239,
+    "word": "einräumen",
+    "wordArabic": "يرتب (داخل شيء)"
+  },
+  {
+    "id": 240,
+    "word": "einschlafen",
+    "wordArabic": "ينام | يغفو"
+  },
+  {
+    "id": 241,
+    "word": "einsetzen",
+    "wordArabic": "يستخدم | يدرج"
+  },
+  {
+    "id": 242,
+    "word": "einstellen",
+    "wordArabic": "يضبط | يوقف"
+  },
+  {
+    "id": 243,
+    "word": "eintragen",
+    "wordArabic": "يضع | يسجل"
+  },
+  {
+    "id": 244,
+    "word": "einwandern",
+    "wordArabic": "يهاجر"
+  },
+  {
+    "id": 245,
+    "word": "einwerfen",
+    "wordArabic": "يرمي في"
+  },
+  {
+    "id": 246,
+    "word": "einzeichnen",
+    "wordArabic": "يُدرج في الرسم"
+  },
+  {
+    "id": 247,
+    "word": "emigrieren",
+    "wordArabic": "يهاجر"
+  },
+  {
+    "id": 248,
+    "word": "empfehlen",
+    "wordArabic": "ينصح | يقترح | يوصي"
+  },
+  {
+    "id": 249,
+    "word": "enden",
+    "wordArabic": "ينهي"
+  },
+  {
+    "id": 250,
+    "word": "engagieren",
+    "wordArabic": "يشارك"
+  },
+  {
+    "id": 251,
+    "word": "entdecken",
+    "wordArabic": "يكتشف"
+  },
+  {
+    "id": 252,
+    "word": "enthalten",
+    "wordArabic": "يحتوي | يتضمّن"
+  },
+  {
+    "id": 253,
+    "word": "entscheiden",
+    "wordArabic": "يقرّر | يختار"
+  },
+  {
+    "id": 254,
+    "word": "entschlossen",
+    "wordArabic": "يُصمِّم | يعتزم"
+  },
+  {
+    "id": 255,
+    "word": "entspannen",
+    "wordArabic": "يسترخي"
+  },
+  {
+    "id": 256,
+    "word": "entstehen",
+    "wordArabic": "يُنشِئ | يُشكل | يتكوّن"
+  },
+  {
+    "id": 257,
+    "word": "enttäuschen",
+    "wordArabic": "يُخيّب الأمل | يُحبط"
+  },
+  {
+    "id": 258,
+    "word": "entwickeln",
+    "wordArabic": "يطوّر | يتطوّر | يتحول"
+  },
+  {
+    "id": 259,
+    "word": "entwurzeln",
+    "wordArabic": "يقتلع | يستأصل"
+  },
+  {
+    "id": 260,
+    "word": "erben",
+    "wordArabic": "يَرث"
+  },
+  {
+    "id": 261,
+    "word": "erbrechen",
+    "wordArabic": "يتقيئ"
+  },
+  {
+    "id": 262,
+    "word": "erfahren",
+    "wordArabic": "يختبر | يعلم"
+  },
+  {
+    "id": 263,
+    "word": "erfinden",
+    "wordArabic": "يخترع | يُوجِد"
+  },
+  {
+    "id": 264,
+    "word": "erforschen",
+    "wordArabic": "يبحث علمياً"
+  },
+  {
+    "id": 265,
+    "word": "erfragen",
+    "wordArabic": "يستفسر | يسأل"
+  },
+  {
+    "id": 266,
+    "word": "erfüllen",
+    "wordArabic": "يُرضي | يُشبع | يُحقق"
+  },
+  {
+    "id": 267,
+    "word": "ergeben",
+    "wordArabic": "يسبّب | يعطي"
+  },
+  {
+    "id": 268,
+    "word": "erhalten",
+    "wordArabic": "يحصل على | يتلقى | ينال"
+  },
+  {
+    "id": 269,
+    "word": "erholen",
+    "wordArabic": "يتعافى | يستجم"
+  },
+  {
+    "id": 270,
+    "word": "erhöhen",
+    "wordArabic": "يزيد | يرفع"
+  },
+  {
+    "id": 271,
+    "word": "erinnern sich",
+    "wordArabic": "يتذكّر"
+  },
+  {
+    "id": 272,
+    "word": "erkennen",
+    "wordArabic": "يَتَعَرَّف | يَكتَشِف"
+  },
+  {
+    "id": 273,
+    "word": "erklären",
+    "wordArabic": "يشرح | يشير | يُوَضِّح"
+  },
+  {
+    "id": 274,
+    "word": "erleben",
+    "wordArabic": "يختبر | يمر بتجربة"
+  },
+  {
+    "id": 275,
+    "word": "erledigen",
+    "wordArabic": "يُنهي | يُكمل"
+  },
+  {
+    "id": 276,
+    "word": "erleichtern",
+    "wordArabic": "يخفّف | يريح"
+  },
+  {
+    "id": 277,
+    "word": "erleiden",
+    "wordArabic": "يُعاني | يتكبّد | يُصاب"
+  },
+  {
+    "id": 278,
+    "word": "erlernen",
+    "wordArabic": "يَتَعَلَّم | يَكتَسِب"
+  },
+  {
+    "id": 279,
+    "word": "erläutern",
+    "wordArabic": "يشرح | يوضّح"
+  },
+  {
+    "id": 280,
+    "word": "ernennen",
+    "wordArabic": "يعيّن | يكلّف"
+  },
+  {
+    "id": 281,
+    "word": "ernähren",
+    "wordArabic": "يُطعم | يُغذي"
+  },
+  {
+    "id": 282,
+    "word": "erreichen",
+    "wordArabic": "يصل إلى هدف"
+  },
+  {
+    "id": 283,
+    "word": "erscheinen",
+    "wordArabic": "يَظهَر | يَصدُر | يَبرز"
+  },
+  {
+    "id": 284,
+    "word": "erschließen",
+    "wordArabic": "يستنتج | يفهم | يطوّر"
+  },
+  {
+    "id": 285,
+    "word": "erschöpfen",
+    "wordArabic": "يُتعب | يُفرغ"
+  },
+  {
+    "id": 286,
+    "word": "ersetzen",
+    "wordArabic": "يستبدل"
+  },
+  {
+    "id": 287,
+    "word": "erstatten",
+    "wordArabic": "يَرُد | يُعوّض"
+  },
+  {
+    "id": 288,
+    "word": "erstaunen",
+    "wordArabic": "يدهش"
+  },
+  {
+    "id": 289,
+    "word": "erwarten",
+    "wordArabic": "يتوقع"
+  },
+  {
+    "id": 290,
+    "word": "erweitern",
+    "wordArabic": "يوسّع | يمدّد"
+  },
+  {
+    "id": 291,
+    "word": "erzählen",
+    "wordArabic": "يحكي | يروي | يتحدث"
+  },
+  {
+    "id": 292,
+    "word": "eröffnen",
+    "wordArabic": "يفتتح"
+  },
+  {
+    "id": 293,
+    "word": "erörtern",
+    "wordArabic": "يناقش | يجادل"
+  },
+  {
+    "id": 294,
+    "word": "essen",
+    "wordArabic": "يأكل"
+  },
+  {
+    "id": 295,
+    "word": "existieren",
+    "wordArabic": "موجود"
+  },
+  {
+    "id": 296,
+    "word": "fahren",
+    "wordArabic": "يسافر | يقود"
+  },
+  {
+    "id": 297,
+    "word": "fallen",
+    "wordArabic": "يسقط"
+  },
+  {
+    "id": 298,
+    "word": "fangen",
+    "wordArabic": "يمسك"
+  },
+  {
+    "id": 299,
+    "word": "fassen",
+    "wordArabic": "يمسك | يدرك | يفهم"
+  },
+  {
+    "id": 300,
+    "word": "faszinieren",
+    "wordArabic": "يفتن | يسحر"
+  },
+  {
+    "id": 301,
+    "word": "fauchen",
+    "wordArabic": "يزمجر | يصرخ بغضب"
+  },
+  {
+    "id": 302,
+    "word": "faulenzen",
+    "wordArabic": "يتكاسل | يسترخي"
+  },
+  {
+    "id": 303,
+    "word": "fehlen",
+    "wordArabic": "يغيب | يُفقد"
+  },
+  {
+    "id": 304,
+    "word": "feiern",
+    "wordArabic": "يحتفل"
+  },
+  {
+    "id": 305,
+    "word": "fernsehen",
+    "wordArabic": "يشاهد التلفاز"
+  },
+  {
+    "id": 306,
+    "word": "festen",
+    "wordArabic": "يحتفل"
+  },
+  {
+    "id": 307,
+    "word": "festhalten",
+    "wordArabic": "يوثّق | يتمسّك"
+  },
+  {
+    "id": 308,
+    "word": "festlegen",
+    "wordArabic": "يضبط بشكل ثابت"
+  },
+  {
+    "id": 309,
+    "word": "feststehen",
+    "wordArabic": "يكون ثابت"
+  },
+  {
+    "id": 310,
+    "word": "finden",
+    "wordArabic": "يجد | يَجد"
+  },
+  {
+    "id": 311,
+    "word": "fliegen",
+    "wordArabic": "يطير"
+  },
+  {
+    "id": 312,
+    "word": "flüstern",
+    "wordArabic": "يهمس"
+  },
+  {
+    "id": 313,
+    "word": "folgen",
+    "wordArabic": "يتابع | يتبع"
+  },
+  {
+    "id": 314,
+    "word": "fordern",
+    "wordArabic": "يطالب | يطلب | يتحدّى"
+  },
+  {
+    "id": 315,
+    "word": "formen",
+    "wordArabic": "يُشكّل"
+  },
+  {
+    "id": 316,
+    "word": "formulieren",
+    "wordArabic": "يصيغ"
+  },
+  {
+    "id": 317,
+    "word": "forschen",
+    "wordArabic": "يبحث علمياً"
+  },
+  {
+    "id": 318,
+    "word": "fortschreiten",
+    "wordArabic": "يتقدّم | يستمر"
+  },
+  {
+    "id": 319,
+    "word": "fotografieren",
+    "wordArabic": "يصوّر"
+  },
+  {
+    "id": 320,
+    "word": "fragen",
+    "wordArabic": "يسأل"
+  },
+  {
+    "id": 321,
+    "word": "fressen",
+    "wordArabic": "يفترس"
+  },
+  {
+    "id": 322,
+    "word": "freuen | erfreuen",
+    "wordArabic": "يُسَر | يفرح"
+  },
+  {
+    "id": 323,
+    "word": "frieren",
+    "wordArabic": "يتجمد"
+  },
+  {
+    "id": 324,
+    "word": "frustrieren",
+    "wordArabic": "يُحبط | يُخيّب الأمل"
+  },
+  {
+    "id": 325,
+    "word": "färben",
+    "wordArabic": "يصبغ | يلوّن"
+  },
+  {
+    "id": 326,
+    "word": "föhnen",
+    "wordArabic": "يجفف الشعر | يجفّف"
+  },
+  {
+    "id": 327,
+    "word": "fühlen",
+    "wordArabic": "يشعر"
+  },
+  {
+    "id": 328,
+    "word": "führen",
+    "wordArabic": "يقود"
+  },
+  {
+    "id": 329,
+    "word": "fürchten",
+    "wordArabic": "يخاف | يخشى"
+  },
+  {
+    "id": 330,
+    "word": "geben",
+    "wordArabic": "يكلّف | يُعطي | يقدّم"
+  },
+  {
+    "id": 331,
+    "word": "gebieten",
+    "wordArabic": "يأمر | يطالب"
+  },
+  {
+    "id": 332,
+    "word": "gebrauchen",
+    "wordArabic": "يستخدم"
+  },
+  {
+    "id": 333,
+    "word": "gebärden",
+    "wordArabic": "يشير | يتصرّف"
+  },
+  {
+    "id": 334,
+    "word": "gefallen",
+    "wordArabic": "يرضي | يعجب"
+  },
+  {
+    "id": 335,
+    "word": "gefährden",
+    "wordArabic": "يُعرّض للخطر | يهدّد"
+  },
+  {
+    "id": 336,
+    "word": "gehen",
+    "wordArabic": "يذهب"
+  },
+  {
+    "id": 337,
+    "word": "gehören",
+    "wordArabic": "ينتمي إلى"
+  },
+  {
+    "id": 338,
+    "word": "gelten",
+    "wordArabic": "يُطبق | يتقدم"
+  },
+  {
+    "id": 339,
+    "word": "genehmigen",
+    "wordArabic": "يُصادق | يُوافق"
+  },
+  {
+    "id": 340,
+    "word": "genießen",
+    "wordArabic": "يتمتع | يتلذَذ"
+  },
+  {
+    "id": 341,
+    "word": "geraten",
+    "wordArabic": "يقع في | ينزلق إلى"
+  },
+  {
+    "id": 342,
+    "word": "geschehen",
+    "wordArabic": "يَحدُث"
+  },
+  {
+    "id": 343,
+    "word": "gestalten",
+    "wordArabic": "يصمّم | يشكّل | ينشئ"
+  },
+  {
+    "id": 344,
+    "word": "gestikulieren",
+    "wordArabic": "يُشير"
+  },
+  {
+    "id": 345,
+    "word": "gesunden",
+    "wordArabic": "يتعافى"
+  },
+  {
+    "id": 346,
+    "word": "gewinnen",
+    "wordArabic": "يربح | يفوز"
+  },
+  {
+    "id": 347,
+    "word": "gießen",
+    "wordArabic": "يصب | يسكب | يسقي"
+  },
+  {
+    "id": 348,
+    "word": "glauben",
+    "wordArabic": "يؤمن | يعتقد | يصدّق"
+  },
+  {
+    "id": 349,
+    "word": "gliedern",
+    "wordArabic": "يُنظِّم | يُقسِّم | يُرتِّب"
+  },
+  {
+    "id": 350,
+    "word": "graduieren",
+    "wordArabic": "يتخرّج"
+  },
+  {
+    "id": 351,
+    "word": "grenzen",
+    "wordArabic": "يتاخم | يقترب"
+  },
+  {
+    "id": 352,
+    "word": "gründen",
+    "wordArabic": "يؤسس | يجد | يبني"
+  },
+  {
+    "id": 353,
+    "word": "gucken",
+    "wordArabic": "يشاهد"
+  },
+  {
+    "id": 354,
+    "word": "haben",
+    "wordArabic": "يملك"
+  },
+  {
+    "id": 355,
+    "word": "hacken",
+    "wordArabic": "يفرم | يقطع"
+  },
+  {
+    "id": 356,
+    "word": "halten",
+    "wordArabic": "يمسك | يحافظ | يوقف"
+  },
+  {
+    "id": 357,
+    "word": "handeln",
+    "wordArabic": "يتعامل | يتاجر"
+  },
+  {
+    "id": 358,
+    "word": "heben",
+    "wordArabic": "يرفع"
+  },
+  {
+    "id": 359,
+    "word": "heimwerken",
+    "wordArabic": "يعمل أعمال منزلية"
+  },
+  {
+    "id": 360,
+    "word": "heißen",
+    "wordArabic": "يسمى"
+  },
+  {
+    "id": 361,
+    "word": "helfen",
+    "wordArabic": "يساعد"
+  },
+  {
+    "id": 362,
+    "word": "herausfinden",
+    "wordArabic": "يكتشف | يعرف"
+  },
+  {
+    "id": 363,
+    "word": "herrschen",
+    "wordArabic": "يسود | يهيمن | يحكم"
+  },
+  {
+    "id": 364,
+    "word": "herstellen",
+    "wordArabic": "يُنتج | يصنّع"
+  },
+  {
+    "id": 365,
+    "word": "herunterladen",
+    "wordArabic": "يحمّل"
+  },
+  {
+    "id": 366,
+    "word": "hineinstellen",
+    "wordArabic": "يضع شيئ داخل مكان"
+  },
+  {
+    "id": 367,
+    "word": "hineinstopfen",
+    "wordArabic": "يحشي | يُقحم"
+  },
+  {
+    "id": 368,
+    "word": "hinterlassen",
+    "wordArabic": "يغادر | يترك خلفه"
+  },
+  {
+    "id": 369,
+    "word": "hinweisen",
+    "wordArabic": "يلفت الانتباه لشيء"
+  },
+  {
+    "id": 370,
+    "word": "hinzufügen",
+    "wordArabic": "يضيف (شيئ جديد)"
+  },
+  {
+    "id": 371,
+    "word": "hochbringen",
+    "wordArabic": "يرفع"
+  },
+  {
+    "id": 372,
+    "word": "holen",
+    "wordArabic": "يأخذ | يذهب ليحضر"
+  },
+  {
+    "id": 373,
+    "word": "husten",
+    "wordArabic": "يسعل"
+  },
+  {
+    "id": 374,
+    "word": "hängen",
+    "wordArabic": "يعلّق | يتدلى"
+  },
+  {
+    "id": 375,
+    "word": "hören",
+    "wordArabic": "يسمع"
+  },
+  {
+    "id": 376,
+    "word": "hüten",
+    "wordArabic": "يَحمي"
+  },
+  {
+    "id": 377,
+    "word": "ignorieren",
+    "wordArabic": "يتجاهل"
+  },
+  {
+    "id": 378,
+    "word": "informieren",
+    "wordArabic": "يخبر | يُعلم"
+  },
+  {
+    "id": 379,
+    "word": "interviewen",
+    "wordArabic": "يُقابل"
+  },
+  {
+    "id": 380,
+    "word": "joggen",
+    "wordArabic": "يهرول"
+  },
+  {
+    "id": 381,
+    "word": "kaschieren",
+    "wordArabic": "يُخفي | يُغطي | يُقنّع"
+  },
+  {
+    "id": 382,
+    "word": "kaufen",
+    "wordArabic": "يشتري"
+  },
+  {
+    "id": 383,
+    "word": "kehren",
+    "wordArabic": "يعود"
+  },
+  {
+    "id": 384,
+    "word": "kennen",
+    "wordArabic": "يعرف"
+  },
+  {
+    "id": 385,
+    "word": "klagen",
+    "wordArabic": "يشتكي"
+  },
+  {
+    "id": 386,
+    "word": "klappen",
+    "wordArabic": "ينجح"
+  },
+  {
+    "id": 387,
+    "word": "klarkommen",
+    "wordArabic": "يتأقلم | يتعامل | يتدبّر"
+  },
+  {
+    "id": 388,
+    "word": "kleben",
+    "wordArabic": "يلصق"
+  },
+  {
+    "id": 389,
+    "word": "kleiden",
+    "wordArabic": "يلبس | يرتدي"
+  },
+  {
+    "id": 390,
+    "word": "klettern",
+    "wordArabic": "يتسلّق"
+  },
+  {
+    "id": 391,
+    "word": "klingeln",
+    "wordArabic": "يرن"
+  },
+  {
+    "id": 392,
+    "word": "klingen",
+    "wordArabic": "يرن | يصدر صوت"
+  },
+  {
+    "id": 393,
+    "word": "klopfen",
+    "wordArabic": "يطرق | يدق"
+  },
+  {
+    "id": 394,
+    "word": "kochen",
+    "wordArabic": "يطبخ | يسلق | يغلي"
+  },
+  {
+    "id": 395,
+    "word": "kombinieren",
+    "wordArabic": "يجمِّع"
+  },
+  {
+    "id": 396,
+    "word": "kommen",
+    "wordArabic": "يأتي"
+  },
+  {
+    "id": 397,
+    "word": "kontrollieren",
+    "wordArabic": "يتحكم | يتحقق | يراقب"
+  },
+  {
+    "id": 398,
+    "word": "koordinieren",
+    "wordArabic": "ينسّق"
+  },
+  {
+    "id": 399,
+    "word": "korrigieren",
+    "wordArabic": "يصحح"
+  },
+  {
+    "id": 400,
+    "word": "kosten",
+    "wordArabic": "يكلّف"
+  },
+  {
+    "id": 401,
+    "word": "kreativ",
+    "wordArabic": "مبدع"
+  },
+  {
+    "id": 402,
+    "word": "kämmen",
+    "wordArabic": "يمشّط"
+  },
+  {
+    "id": 403,
+    "word": "kämpfen",
+    "wordArabic": "يُقاتل | يُكافح | يُصارع"
+  },
+  {
+    "id": 404,
+    "word": "können",
+    "wordArabic": "يستطيع"
+  },
+  {
+    "id": 405,
+    "word": "kühlen",
+    "wordArabic": "يبرّد"
+  },
+  {
+    "id": 406,
+    "word": "kümmern",
+    "wordArabic": "يعتني | يهتم"
+  },
+  {
+    "id": 407,
+    "word": "küssen",
+    "wordArabic": "يقبّل"
+  },
+  {
+    "id": 408,
+    "word": "lachen",
+    "wordArabic": "يضحك"
+  },
+  {
+    "id": 409,
+    "word": "langweilen",
+    "wordArabic": "يمُل | يضجر | يسأم"
+  },
+  {
+    "id": 410,
+    "word": "lassen",
+    "wordArabic": "يترك | يسمح بـ"
+  },
+  {
+    "id": 411,
+    "word": "laufen",
+    "wordArabic": "يمشي | يهرول"
+  },
+  {
+    "id": 412,
+    "word": "lauten",
+    "wordArabic": "يلفظ"
+  },
+  {
+    "id": 413,
+    "word": "leben",
+    "wordArabic": "يعيش"
+  },
+  {
+    "id": 414,
+    "word": "schimpfen | fluchen",
+    "wordArabic": "يوبّخ | يشتم"
+  },
+  {
+    "id": 415,
+    "word": "legen",
+    "wordArabic": "يضع"
+  },
+  {
+    "id": 416,
+    "word": "lehnen",
+    "wordArabic": "يميل | يتكئ"
+  },
+  {
+    "id": 417,
+    "word": "leiden",
+    "wordArabic": "يعاني"
+  },
+  {
+    "id": 418,
+    "word": "leihen",
+    "wordArabic": "يُعير | يُقرض"
+  },
+  {
+    "id": 419,
+    "word": "leisten",
+    "wordArabic": "يحقق"
+  },
+  {
+    "id": 420,
+    "word": "leiten",
+    "wordArabic": "يقود"
+  },
+  {
+    "id": 421,
+    "word": "lernen",
+    "wordArabic": "يتعلّم"
+  },
+  {
+    "id": 422,
+    "word": "lesen",
+    "wordArabic": "يقرأ"
+  },
+  {
+    "id": 423,
+    "word": "lieben",
+    "wordArabic": "يحب"
+  },
+  {
+    "id": 424,
+    "word": "liefern",
+    "wordArabic": "يوصل | يقدّم | يوفّر"
+  },
+  {
+    "id": 425,
+    "word": "liegen",
+    "wordArabic": "يستلقي | يقع"
+  },
+  {
+    "id": 426,
+    "word": "lochen",
+    "wordArabic": "يثقب"
+  },
+  {
+    "id": 427,
+    "word": "locken",
+    "wordArabic": "يجذب | يغري | يجعّد"
+  },
+  {
+    "id": 428,
+    "word": "lohnen",
+    "wordArabic": "يستحق | يكون مجدياً"
+  },
+  {
+    "id": 429,
+    "word": "lächeln | anlächeln",
+    "wordArabic": "يبتسم"
+  },
+  {
+    "id": 430,
+    "word": "löschen",
+    "wordArabic": "يحذف | يزيل"
+  },
+  {
+    "id": 431,
+    "word": "lösen",
+    "wordArabic": "يحل | يفك"
+  },
+  {
+    "id": 432,
+    "word": "machen",
+    "wordArabic": "يصنع | يفعل"
+  },
+  {
+    "id": 433,
+    "word": "malen",
+    "wordArabic": "يرسم | يدهن"
+  },
+  {
+    "id": 434,
+    "word": "malochen",
+    "wordArabic": "يكدح | يعمل بجد"
+  },
+  {
+    "id": 435,
+    "word": "marschierten",
+    "wordArabic": "يمشي بشكل عسكري"
+  },
+  {
+    "id": 436,
+    "word": "meinen",
+    "wordArabic": "يقصد | يؤمن"
+  },
+  {
+    "id": 437,
+    "word": "meinten",
+    "wordArabic": "يعتقد | يعني"
+  },
+  {
+    "id": 438,
+    "word": "melden",
+    "wordArabic": "يُبلغ | يتعلم بنفسه"
+  },
+  {
+    "id": 439,
+    "word": "merken",
+    "wordArabic": "يتذكّر | يحفظ | يلاحظ"
+  },
+  {
+    "id": 440,
+    "word": "messen",
+    "wordArabic": "يقيس"
+  },
+  {
+    "id": 441,
+    "word": "mieten",
+    "wordArabic": "يستأجر"
+  },
+  {
+    "id": 442,
+    "word": "mitarbeiten",
+    "wordArabic": "يتعاوَن | يشارك"
+  },
+  {
+    "id": 443,
+    "word": "mitbestimmen",
+    "wordArabic": "يشارك باتخاذ القرار | له رأي"
+  },
+  {
+    "id": 444,
+    "word": "mitbringen",
+    "wordArabic": "يَجلب معه"
+  },
+  {
+    "id": 445,
+    "word": "mitgenommen",
+    "wordArabic": "يأخذ معه"
+  },
+  {
+    "id": 446,
+    "word": "mitmachen",
+    "wordArabic": "ينضم | يشارك"
+  },
+  {
+    "id": 447,
+    "word": "mitnehmen",
+    "wordArabic": "يحمل مع | يأخذ مع"
+  },
+  {
+    "id": 448,
+    "word": "montieren",
+    "wordArabic": "يركب | يثبت"
+  },
+  {
+    "id": 449,
+    "word": "murmeln",
+    "wordArabic": "يهمس | يدمدم"
+  },
+  {
+    "id": 450,
+    "word": "möblieren",
+    "wordArabic": "يفرش"
+  },
+  {
+    "id": 451,
+    "word": "mögen",
+    "wordArabic": "يفضل | يُحب"
+  },
+  {
+    "id": 452,
+    "word": "müssen",
+    "wordArabic": "يجب"
+  },
+  {
+    "id": 453,
+    "word": "nachdenken",
+    "wordArabic": "يعتبر | يتأمّل | يفكر بإمعان"
+  },
+  {
+    "id": 454,
+    "word": "nachfragen",
+    "wordArabic": "يستفسر | يسأل"
+  },
+  {
+    "id": 455,
+    "word": "nachschenken",
+    "wordArabic": "يعيد تعبئة | ملأ ثانية"
+  },
+  {
+    "id": 456,
+    "word": "nachschlagen",
+    "wordArabic": "يتحقّق | يبحث"
+  },
+  {
+    "id": 457,
+    "word": "nachwürzen",
+    "wordArabic": "يتبّل | يضيف التوابل"
+  },
+  {
+    "id": 458,
+    "word": "nehmen",
+    "wordArabic": "يأخذ"
+  },
+  {
+    "id": 459,
+    "word": "nennen",
+    "wordArabic": "يسمي | يذكر"
+  },
+  {
+    "id": 460,
+    "word": "nerven",
+    "wordArabic": "يضايق"
+  },
+  {
+    "id": 461,
+    "word": "nominieren",
+    "wordArabic": "يرشح"
+  },
+  {
+    "id": 462,
+    "word": "notieren",
+    "wordArabic": "يدوّن"
+  },
+  {
+    "id": 463,
+    "word": "nummerieren",
+    "wordArabic": "يُرقّم"
+  },
+  {
+    "id": 464,
+    "word": "nässen",
+    "wordArabic": "يبتل | يُرطّب | يُبلّل"
+  },
+  {
+    "id": 465,
+    "word": "organisieren",
+    "wordArabic": "ينظّم"
+  },
+  {
+    "id": 466,
+    "word": "packen",
+    "wordArabic": "يوضّب"
+  },
+  {
+    "id": 467,
+    "word": "passen",
+    "wordArabic": "يُلائم"
+  },
+  {
+    "id": 468,
+    "word": "passieren",
+    "wordArabic": "يحدث"
+  },
+  {
+    "id": 469,
+    "word": "pfeffern",
+    "wordArabic": "يُبهّر"
+  },
+  {
+    "id": 470,
+    "word": "pflegen",
+    "wordArabic": "يعتني | يحافظ على"
+  },
+  {
+    "id": 471,
+    "word": "planen",
+    "wordArabic": "يخطط"
+  },
+  {
+    "id": 472,
+    "word": "plaudern",
+    "wordArabic": "يثرثر | يدردش"
+  },
+  {
+    "id": 473,
+    "word": "drohen",
+    "wordArabic": "يُهدِّد (أن يحدث)"
+  },
+  {
+    "id": 474,
+    "word": "probieren",
+    "wordArabic": "يجرّب | يحاول"
+  },
+  {
+    "id": 475,
+    "word": "produzieren",
+    "wordArabic": "ينتج"
+  },
+  {
+    "id": 476,
+    "word": "promovieren",
+    "wordArabic": "يحصل على الدكتوراه"
+  },
+  {
+    "id": 477,
+    "word": "prophezeien",
+    "wordArabic": "يتنبأ"
+  },
+  {
+    "id": 478,
+    "word": "verzichten",
+    "wordArabic": "يَتَنازَل | يَتَخَلَّى"
+  },
+  {
+    "id": 479,
+    "word": "queren",
+    "wordArabic": "يَعبر | يَقطع"
+  },
+  {
+    "id": 480,
+    "word": "rasieren",
+    "wordArabic": "يحلق"
+  },
+  {
+    "id": 481,
+    "word": "raten",
+    "wordArabic": "يخمّن | ينصح"
+  },
+  {
+    "id": 482,
+    "word": "rauchen",
+    "wordArabic": "يدخن"
+  },
+  {
+    "id": 483,
+    "word": "reagieren",
+    "wordArabic": "يستجيب | يردّ | يتفاعل"
+  },
+  {
+    "id": 484,
+    "word": "recherchieren",
+    "wordArabic": "يبحث"
+  },
+  {
+    "id": 485,
+    "word": "recyceln",
+    "wordArabic": "يعيد تدوير"
+  },
+  {
+    "id": 486,
+    "word": "reden",
+    "wordArabic": "يتحدث | يجادل"
+  },
+  {
+    "id": 487,
+    "word": "reduzieren",
+    "wordArabic": "يخفّض"
+  },
+  {
+    "id": 488,
+    "word": "regieren",
+    "wordArabic": "يَحكم"
+  },
+  {
+    "id": 489,
+    "word": "regnen",
+    "wordArabic": "تمطر"
+  },
+  {
+    "id": 490,
+    "word": "reinigen",
+    "wordArabic": "يطهّر | يعقّم"
+  },
+  {
+    "id": 491,
+    "word": "reisen",
+    "wordArabic": "يسافر"
+  },
+  {
+    "id": 492,
+    "word": "reiten",
+    "wordArabic": "يركب الخيل"
+  },
+  {
+    "id": 493,
+    "word": "reklamieren",
+    "wordArabic": "يشتكي | يحتج | يعترض"
+  },
+  {
+    "id": 494,
+    "word": "rennen",
+    "wordArabic": "يجري | يركد"
+  },
+  {
+    "id": 495,
+    "word": "renommieren",
+    "wordArabic": "يتبجّح | يتفاخر"
+  },
+  {
+    "id": 496,
+    "word": "renovieren",
+    "wordArabic": "يجدد"
+  },
+  {
+    "id": 497,
+    "word": "reparieren",
+    "wordArabic": "يصلح"
+  },
+  {
+    "id": 498,
+    "word": "reservieren",
+    "wordArabic": "يحجز"
+  },
+  {
+    "id": 499,
+    "word": "retten",
+    "wordArabic": "ينقذ | ينجو"
+  },
+  {
+    "id": 500,
+    "word": "riechen",
+    "wordArabic": "يشم رائحة"
+  },
+  {
+    "id": 501,
+    "word": "riefen",
+    "wordArabic": "يهتف | ينادي"
+  },
+  {
+    "id": 502,
+    "word": "rufen",
+    "wordArabic": "ينادي | يصرخ | ينده"
+  },
+  {
+    "id": 503,
+    "word": "runterbringen",
+    "wordArabic": "يسقط | يخفض"
+  },
+  {
+    "id": 504,
+    "word": "runzeln",
+    "wordArabic": "يعبُس | يُجعّد"
+  },
+  {
+    "id": 505,
+    "word": "rutschen",
+    "wordArabic": "ينزلق | يتزحلق | ينحدر"
+  },
+  {
+    "id": 506,
+    "word": "räumen",
+    "wordArabic": "يفرغ"
+  },
+  {
+    "id": 507,
+    "word": "rübergehen",
+    "wordArabic": "يمرّر | يَعبُر"
+  },
+  {
+    "id": 508,
+    "word": "rühren",
+    "wordArabic": "يمزج | يحرّك"
+  },
+  {
+    "id": 509,
+    "word": "sagen",
+    "wordArabic": "يقول"
+  },
+  {
+    "id": 510,
+    "word": "salzen",
+    "wordArabic": "يُملّح"
+  },
+  {
+    "id": 511,
+    "word": "schaffen",
+    "wordArabic": "يحقق | يصنع | يخلق"
+  },
+  {
+    "id": 512,
+    "word": "schalten",
+    "wordArabic": "يشغّل"
+  },
+  {
+    "id": 513,
+    "word": "schauen",
+    "wordArabic": "يشاهد | ينظر"
+  },
+  {
+    "id": 514,
+    "word": "schauern | duschen",
+    "wordArabic": "يغتسل | يتدوش"
+  },
+  {
+    "id": 515,
+    "word": "scheinen",
+    "wordArabic": "يلمع"
+  },
+  {
+    "id": 516,
+    "word": "schenken",
+    "wordArabic": "يُهدي"
+  },
+  {
+    "id": 517,
+    "word": "schicken",
+    "wordArabic": "يرسل"
+  },
+  {
+    "id": 518,
+    "word": "schieben",
+    "wordArabic": "يدفع | يدفع شيئاً"
+  },
+  {
+    "id": 519,
+    "word": "schieflaufen",
+    "wordArabic": "يسوء"
+  },
+  {
+    "id": 520,
+    "word": "schießen",
+    "wordArabic": "يطلق | يسدد"
+  },
+  {
+    "id": 521,
+    "word": "schlafen",
+    "wordArabic": "ينام"
+  },
+  {
+    "id": 522,
+    "word": "schlagen",
+    "wordArabic": "يضرب"
+  },
+  {
+    "id": 523,
+    "word": "schleichen",
+    "wordArabic": "يتسلّل"
+  },
+  {
+    "id": 524,
+    "word": "schließen",
+    "wordArabic": "يغلق"
+  },
+  {
+    "id": 525,
+    "word": "schmecken",
+    "wordArabic": "يطيب | يلذ"
+  },
+  {
+    "id": 526,
+    "word": "schmelzen",
+    "wordArabic": "يذوب"
+  },
+  {
+    "id": 527,
+    "word": "schminken",
+    "wordArabic": "تضع المكياج"
+  },
+  {
+    "id": 528,
+    "word": "schmücken",
+    "wordArabic": "يُزيّن | يُزخرف"
+  },
+  {
+    "id": 529,
+    "word": "schneiden",
+    "wordArabic": "يقطّع | يقص | يجرح"
+  },
+  {
+    "id": 530,
+    "word": "schockieren",
+    "wordArabic": "يَصدُم"
+  },
+  {
+    "id": 531,
+    "word": "schreiben",
+    "wordArabic": "يكتب"
+  },
+  {
+    "id": 532,
+    "word": "schwatzen",
+    "wordArabic": "يتحدث | يثرثر"
+  },
+  {
+    "id": 533,
+    "word": "schwimmen",
+    "wordArabic": "يسبح"
+  },
+  {
+    "id": 534,
+    "word": "schwächen",
+    "wordArabic": "يُضعف"
+  },
+  {
+    "id": 535,
+    "word": "schwätzen",
+    "wordArabic": "يتحدث | يثرثر"
+  },
+  {
+    "id": 536,
+    "word": "schälen",
+    "wordArabic": "يقشّر"
+  },
+  {
+    "id": 537,
+    "word": "schütteln",
+    "wordArabic": "يهز"
+  },
+  {
+    "id": 538,
+    "word": "schützen",
+    "wordArabic": "يحمي"
+  },
+  {
+    "id": 539,
+    "word": "sehen",
+    "wordArabic": "يرى"
+  },
+  {
+    "id": 540,
+    "word": "sein",
+    "wordArabic": "يكون | يتواجد"
+  },
+  {
+    "id": 541,
+    "word": "senken",
+    "wordArabic": "يُخفض | يهبط"
+  },
+  {
+    "id": 542,
+    "word": "servieren",
+    "wordArabic": "يخدم"
+  },
+  {
+    "id": 543,
+    "word": "setzen",
+    "wordArabic": "يجلس | يضع"
+  },
+  {
+    "id": 544,
+    "word": "seufzen",
+    "wordArabic": "يتنهد"
+  },
+  {
+    "id": 545,
+    "word": "shoppen",
+    "wordArabic": "يتسوق"
+  },
+  {
+    "id": 546,
+    "word": "sich schämen",
+    "wordArabic": "يشعر بالخجل"
+  },
+  {
+    "id": 547,
+    "word": "signalisieren",
+    "wordArabic": "يُشير (بشكل مباشر)"
+  },
+  {
+    "id": 548,
+    "word": "simsen",
+    "wordArabic": "يكتب رسالة نصية"
+  },
+  {
+    "id": 549,
+    "word": "singen",
+    "wordArabic": "يغني"
+  },
+  {
+    "id": 550,
+    "word": "sollen",
+    "wordArabic": "يجب | ينبغي أن"
+  },
+  {
+    "id": 551,
+    "word": "sorgen",
+    "wordArabic": "يهتم | يعتني"
+  },
+  {
+    "id": 552,
+    "word": "spalten",
+    "wordArabic": "يقسّم"
+  },
+  {
+    "id": 553,
+    "word": "spannen",
+    "wordArabic": "يسترخي | يتمدّد"
+  },
+  {
+    "id": 554,
+    "word": "sparen",
+    "wordArabic": "يحفظ | يدّخر | يوفّر"
+  },
+  {
+    "id": 555,
+    "word": "spazieren",
+    "wordArabic": "يمشي | يتنزه"
+  },
+  {
+    "id": 556,
+    "word": "speichern",
+    "wordArabic": "يخزّن | يحفظ"
+  },
+  {
+    "id": 557,
+    "word": "speisen",
+    "wordArabic": "يُطعم"
+  },
+  {
+    "id": 558,
+    "word": "sperren",
+    "wordArabic": "يحجب | يغلق"
+  },
+  {
+    "id": 559,
+    "word": "spielen",
+    "wordArabic": "يلعب | يعزف | يمثّل"
+  },
+  {
+    "id": 560,
+    "word": "spitzen",
+    "wordArabic": "يصعّد | يَشحذ | يَسِنْ"
+  },
+  {
+    "id": 561,
+    "word": "sprechen",
+    "wordArabic": "يتحدث | يتكلم"
+  },
+  {
+    "id": 562,
+    "word": "springen",
+    "wordArabic": "يقفز"
+  },
+  {
+    "id": 563,
+    "word": "spülen",
+    "wordArabic": "يغسل | يشطف | ينقع"
+  },
+  {
+    "id": 564,
+    "word": "spüren",
+    "wordArabic": "يشعر"
+  },
+  {
+    "id": 565,
+    "word": "stammen",
+    "wordArabic": "يتجذّر | ينحدر من | ينتمي"
+  },
+  {
+    "id": 566,
+    "word": "starten",
+    "wordArabic": "يبدأ | يشغل"
+  },
+  {
+    "id": 567,
+    "word": "stattfinden",
+    "wordArabic": "يَحْدُث | يَحْدُث في موقع"
+  },
+  {
+    "id": 568,
+    "word": "staubsaugen",
+    "wordArabic": "يكنّس"
+  },
+  {
+    "id": 569,
+    "word": "stecken",
+    "wordArabic": "يضع | يدخل | يغرس"
+  },
+  {
+    "id": 570,
+    "word": "stehen",
+    "wordArabic": "يقف"
+  },
+  {
+    "id": 571,
+    "word": "stehlen",
+    "wordArabic": "يسرق"
+  },
+  {
+    "id": 572,
+    "word": "steigen",
+    "wordArabic": "يتسلّق | يرتفع"
+  },
+  {
+    "id": 573,
+    "word": "stellen",
+    "wordArabic": "يضع (بشكل واقف)"
+  },
+  {
+    "id": 574,
+    "word": "sterben | starb",
+    "wordArabic": "يموت"
+  },
+  {
+    "id": 575,
+    "word": "steuern",
+    "wordArabic": "يوجّه | يتحكم"
+  },
+  {
+    "id": 576,
+    "word": "stillen",
+    "wordArabic": "تُرضع طبيعياً"
+  },
+  {
+    "id": 577,
+    "word": "stillstehen",
+    "wordArabic": "يتوقّف"
+  },
+  {
+    "id": 578,
+    "word": "stimmen",
+    "wordArabic": "يصوّت | يكون مُحِق"
+  },
+  {
+    "id": 579,
+    "word": "stolpern",
+    "wordArabic": "يتعثّر"
+  },
+  {
+    "id": 580,
+    "word": "stoppen",
+    "wordArabic": "يوقف"
+  },
+  {
+    "id": 581,
+    "word": "stoßen",
+    "wordArabic": "يصدم"
+  },
+  {
+    "id": 582,
+    "word": "strecken",
+    "wordArabic": "يتمدّد"
+  },
+  {
+    "id": 583,
+    "word": "streichen",
+    "wordArabic": "يدهن | يلغي | يشطب"
+  },
+  {
+    "id": 584,
+    "word": "streiten",
+    "wordArabic": "يتشاجر"
+  },
+  {
+    "id": 585,
+    "word": "strukturieren",
+    "wordArabic": "يَبني"
+  },
+  {
+    "id": 586,
+    "word": "studieren",
+    "wordArabic": "يدرس في الجامعة"
+  },
+  {
+    "id": 587,
+    "word": "stärken",
+    "wordArabic": "يُقوّي"
+  },
+  {
+    "id": 588,
+    "word": "stören",
+    "wordArabic": "يزعج"
+  },
+  {
+    "id": 589,
+    "word": "stürzen",
+    "wordArabic": "يَسقُط | يَنهار | يُطيح"
+  },
+  {
+    "id": 590,
+    "word": "suchen",
+    "wordArabic": "يبحث"
+  },
+  {
+    "id": 591,
+    "word": "tanken",
+    "wordArabic": "يتزود بالوقود"
+  },
+  {
+    "id": 592,
+    "word": "tanzen",
+    "wordArabic": "يرقص"
+  },
+  {
+    "id": 593,
+    "word": "tasten",
+    "wordArabic": "يتحسس | يلمس"
+  },
+  {
+    "id": 594,
+    "word": "tauchen",
+    "wordArabic": "يغطس"
+  },
+  {
+    "id": 595,
+    "word": "tauschen",
+    "wordArabic": "يبدّل"
+  },
+  {
+    "id": 596,
+    "word": "teilen",
+    "wordArabic": "يشارك | يقسّم"
+  },
+  {
+    "id": 597,
+    "word": "teilnehmen",
+    "wordArabic": "يشارك"
+  },
+  {
+    "id": 598,
+    "word": "telefonieren",
+    "wordArabic": "يتصل"
+  },
+  {
+    "id": 599,
+    "word": "testen",
+    "wordArabic": "يجرّب"
+  },
+  {
+    "id": 600,
+    "word": "thematisieren",
+    "wordArabic": "يتناول موضوع"
+  },
+  {
+    "id": 601,
+    "word": "tragen",
+    "wordArabic": "يرتدي | يحمل"
+  },
+  {
+    "id": 602,
+    "word": "treffen",
+    "wordArabic": "يلتقي | يُقابِل"
+  },
+  {
+    "id": 603,
+    "word": "treiben",
+    "wordArabic": "يدفع | يُحرّك | يمارس"
+  },
+  {
+    "id": 604,
+    "word": "trennen",
+    "wordArabic": "يفصل | ينفصل"
+  },
+  {
+    "id": 605,
+    "word": "treten",
+    "wordArabic": "يخطو | يركل | يظهر"
+  },
+  {
+    "id": 606,
+    "word": "trinken",
+    "wordArabic": "يشرب"
+  },
+  {
+    "id": 607,
+    "word": "tropfen",
+    "wordArabic": "يقطّر"
+  },
+  {
+    "id": 608,
+    "word": "träumen",
+    "wordArabic": "يحلم"
+  },
+  {
+    "id": 609,
+    "word": "tun",
+    "wordArabic": "يفعل"
+  },
+  {
+    "id": 610,
+    "word": "twittern",
+    "wordArabic": "يزقزق | يستخدم تويتر"
+  },
+  {
+    "id": 611,
+    "word": "tönen",
+    "wordArabic": "يصبغ خصلة | تلوين خفيف"
+  },
+  {
+    "id": 612,
+    "word": "umschulen",
+    "wordArabic": "إعادة تدريب | إعادة دراسة"
+  },
+  {
+    "id": 613,
+    "word": "umsetzen",
+    "wordArabic": "يُطبِّق"
+  },
+  {
+    "id": 614,
+    "word": "umsteigen",
+    "wordArabic": "يبدل"
+  },
+  {
+    "id": 615,
+    "word": "umstürzen",
+    "wordArabic": "يسقط | يَنهار | ينقلب"
+  },
+  {
+    "id": 616,
+    "word": "umtauschen",
+    "wordArabic": "يستبدل في متجر"
+  },
+  {
+    "id": 617,
+    "word": "umziehen",
+    "wordArabic": "يبدل منزله | يبدل ملابسه"
+  },
+  {
+    "id": 618,
+    "word": "unterbrechen",
+    "wordArabic": "يقاطع"
+  },
+  {
+    "id": 619,
+    "word": "unterhalten",
+    "wordArabic": "يتسلى | يتسامر | يتحدث"
+  },
+  {
+    "id": 620,
+    "word": "unterkriegen",
+    "wordArabic": "يُقهر | يُحبط | ينهزم"
+  },
+  {
+    "id": 621,
+    "word": "unternehmen",
+    "wordArabic": "يباشر | يتولى"
+  },
+  {
+    "id": 622,
+    "word": "unterrichten",
+    "wordArabic": "يُعلّم | يُدرّس"
+  },
+  {
+    "id": 623,
+    "word": "unterscheiden",
+    "wordArabic": "يميّز"
+  },
+  {
+    "id": 624,
+    "word": "unterstreichen",
+    "wordArabic": "يسطّر"
+  },
+  {
+    "id": 625,
+    "word": "unterstützen",
+    "wordArabic": "يدعم | يساعد | يساند"
+  },
+  {
+    "id": 626,
+    "word": "untersuchen",
+    "wordArabic": "يفحص | يحلل"
+  },
+  {
+    "id": 627,
+    "word": "unterzeichnen",
+    "wordArabic": "يوقّع | يبرم"
+  },
+  {
+    "id": 628,
+    "word": "variieren",
+    "wordArabic": "ينوّع"
+  },
+  {
+    "id": 629,
+    "word": "verabreden",
+    "wordArabic": "يتفق على لقاء | يحدد موعد"
+  },
+  {
+    "id": 630,
+    "word": "verabschieden",
+    "wordArabic": "يودّع"
+  },
+  {
+    "id": 631,
+    "word": "verbessern",
+    "wordArabic": "يحسّن | يصحح"
+  },
+  {
+    "id": 632,
+    "word": "verbinden",
+    "wordArabic": "يربط | يُوصل | يجمع"
+  },
+  {
+    "id": 633,
+    "word": "verbrauchen",
+    "wordArabic": "يستهلك"
+  },
+  {
+    "id": 634,
+    "word": "verbrechen",
+    "wordArabic": "يكسر | يرتكب جريمة"
+  },
+  {
+    "id": 635,
+    "word": "verbreiten",
+    "wordArabic": "ينشر | يُشيع"
+  },
+  {
+    "id": 636,
+    "word": "verbrennen",
+    "wordArabic": "يحرق"
+  },
+  {
+    "id": 637,
+    "word": "verbringen",
+    "wordArabic": "يُمضي | يقضي"
+  },
+  {
+    "id": 638,
+    "word": "verdienen",
+    "wordArabic": "يكسب"
+  },
+  {
+    "id": 639,
+    "word": "verdoppeln",
+    "wordArabic": "يتضاعف"
+  },
+  {
+    "id": 640,
+    "word": "vereinbaren",
+    "wordArabic": "يوافق على | يتفق على"
+  },
+  {
+    "id": 641,
+    "word": "verfassen",
+    "wordArabic": "يؤلف | يصوغ"
+  },
+  {
+    "id": 642,
+    "word": "verfeinern",
+    "wordArabic": "يُنكه"
+  },
+  {
+    "id": 643,
+    "word": "verfilmen",
+    "wordArabic": "يصوّر | يحول إلى فيلم"
+  },
+  {
+    "id": 644,
+    "word": "verfolgen",
+    "wordArabic": "يلاحق | يتتبع | يضطهد"
+  },
+  {
+    "id": 645,
+    "word": "vergehen",
+    "wordArabic": "يمر | ينقضي"
+  },
+  {
+    "id": 646,
+    "word": "vergessen",
+    "wordArabic": "ينسى"
+  },
+  {
+    "id": 647,
+    "word": "vergleichen",
+    "wordArabic": "يقارن"
+  },
+  {
+    "id": 648,
+    "word": "verhalten",
+    "wordArabic": "يتصرف بشكل جيد"
+  },
+  {
+    "id": 649,
+    "word": "verhindern",
+    "wordArabic": "يمنع | يعيق"
+  },
+  {
+    "id": 650,
+    "word": "verkaufen",
+    "wordArabic": "يبيع"
+  },
+  {
+    "id": 651,
+    "word": "verkleiden sich",
+    "wordArabic": "يتنكّر"
+  },
+  {
+    "id": 652,
+    "word": "verkürzen",
+    "wordArabic": "يختزل | يقلل | يقصّر"
+  },
+  {
+    "id": 653,
+    "word": "verlassen",
+    "wordArabic": "يغادر"
+  },
+  {
+    "id": 654,
+    "word": "verlaufen",
+    "wordArabic": "يمضي | يجري"
+  },
+  {
+    "id": 655,
+    "word": "verlegen",
+    "wordArabic": "يضع في غير مكانه | ينقل"
+  },
+  {
+    "id": 656,
+    "word": "verletzen",
+    "wordArabic": "يتأذى | يجرح | يصيب"
+  },
+  {
+    "id": 657,
+    "word": "verlieben",
+    "wordArabic": "يقع في الحب"
+  },
+  {
+    "id": 658,
+    "word": "verlieren",
+    "wordArabic": "يفقد | يخسر"
+  },
+  {
+    "id": 659,
+    "word": "verloben",
+    "wordArabic": "يخطب | يرتبط"
+  },
+  {
+    "id": 660,
+    "word": "vermieten",
+    "wordArabic": "يؤجّر"
+  },
+  {
+    "id": 661,
+    "word": "vermischen",
+    "wordArabic": "يمزج | يخلط"
+  },
+  {
+    "id": 662,
+    "word": "vermitteln",
+    "wordArabic": "يَتواسط | يُسهّل | يؤمّن"
+  },
+  {
+    "id": 663,
+    "word": "vermuten",
+    "wordArabic": "يخمّن | يَظُنّ | يعتقد"
+  },
+  {
+    "id": 664,
+    "word": "verpacken",
+    "wordArabic": "يغلّف"
+  },
+  {
+    "id": 665,
+    "word": "verpassen",
+    "wordArabic": "يفتقد | يفوّت"
+  },
+  {
+    "id": 666,
+    "word": "verrühren",
+    "wordArabic": "يخلط"
+  },
+  {
+    "id": 667,
+    "word": "verschanzen",
+    "wordArabic": "يتحصّن | يحتمي"
+  },
+  {
+    "id": 668,
+    "word": "verscheiden",
+    "wordArabic": "يختلف | يمرّر | يموت"
+  },
+  {
+    "id": 669,
+    "word": "verschenken",
+    "wordArabic": "يمنح | يتبرّع"
+  },
+  {
+    "id": 670,
+    "word": "verschicken",
+    "wordArabic": "يرسل (بالبريد)"
+  },
+  {
+    "id": 671,
+    "word": "verschieben",
+    "wordArabic": "يؤجل"
+  },
+  {
+    "id": 672,
+    "word": "verschießen",
+    "wordArabic": "يُضيّع ركلة | يُهدر فرصة"
+  },
+  {
+    "id": 673,
+    "word": "verschlafen",
+    "wordArabic": "يتأخر في النوم"
+  },
+  {
+    "id": 674,
+    "word": "verschütten",
+    "wordArabic": "يسكب بالخطأ | يريق"
+  },
+  {
+    "id": 675,
+    "word": "versichern",
+    "wordArabic": "يؤمّن | يؤكّد"
+  },
+  {
+    "id": 676,
+    "word": "versorgen",
+    "wordArabic": "يزوّد | يمدّ | يوفّر"
+  },
+  {
+    "id": 677,
+    "word": "versprechen",
+    "wordArabic": "يَعِدْ | يتعهّد"
+  },
+  {
+    "id": 678,
+    "word": "verstecken",
+    "wordArabic": "يخبئ | يختبئ"
+  },
+  {
+    "id": 679,
+    "word": "verstehen",
+    "wordArabic": "يفهم"
+  },
+  {
+    "id": 680,
+    "word": "verstärken",
+    "wordArabic": "يُقوّي | يَزيد | يُعزّز"
+  },
+  {
+    "id": 681,
+    "word": "versuchen",
+    "wordArabic": "يحاول"
+  },
+  {
+    "id": 682,
+    "word": "verteilen",
+    "wordArabic": "يوزع"
+  },
+  {
+    "id": 683,
+    "word": "vertrauen",
+    "wordArabic": "يَثِق"
+  },
+  {
+    "id": 684,
+    "word": "vertreiben",
+    "wordArabic": "يطرد"
+  },
+  {
+    "id": 685,
+    "word": "vertreten",
+    "wordArabic": "يمثل | ينوب"
+  },
+  {
+    "id": 686,
+    "word": "verunsichern",
+    "wordArabic": "يشوش | يربك"
+  },
+  {
+    "id": 687,
+    "word": "verwenden",
+    "wordArabic": "يستخدم | يستعمل"
+  },
+  {
+    "id": 688,
+    "word": "verändern",
+    "wordArabic": "يتغيّر"
+  },
+  {
+    "id": 689,
+    "word": "veröffentlichen",
+    "wordArabic": "ينشر | يصدر | يعلن"
+  },
+  {
+    "id": 690,
+    "word": "voranbringen",
+    "wordArabic": "يتقدم | يشجّع"
+  },
+  {
+    "id": 691,
+    "word": "voraussagen",
+    "wordArabic": "يتنبّأ | يتوقّع"
+  },
+  {
+    "id": 692,
+    "word": "vorbei-laufen",
+    "wordArabic": "يمشي من أمام"
+  },
+  {
+    "id": 693,
+    "word": "vorbeilassen",
+    "wordArabic": "يسمح بالمرور"
+  },
+  {
+    "id": 694,
+    "word": "vorbereiten",
+    "wordArabic": "يُحضّر مسبقاً | يُعدّ"
+  },
+  {
+    "id": 695,
+    "word": "vorhaben",
+    "wordArabic": "ينوي"
+  },
+  {
+    "id": 696,
+    "word": "vorhersagen",
+    "wordArabic": "يتنبأ"
+  },
+  {
+    "id": 697,
+    "word": "vorkommen",
+    "wordArabic": "يحدث | يظهر"
+  },
+  {
+    "id": 698,
+    "word": "vorlesen",
+    "wordArabic": "يتلو | يقرأ بصوت عالي"
+  },
+  {
+    "id": 699,
+    "word": "vorschieben",
+    "wordArabic": "يدفع للأمام | يقدّم شيئاً"
+  },
+  {
+    "id": 700,
+    "word": "vorschlagen",
+    "wordArabic": "يقترح"
+  },
+  {
+    "id": 701,
+    "word": "vorstellen",
+    "wordArabic": "يقدِّم | يعرِّف"
+  },
+  {
+    "id": 702,
+    "word": "vortragen",
+    "wordArabic": "يلقي محاضرة"
+  },
+  {
+    "id": 703,
+    "word": "vorwerfen",
+    "wordArabic": "يلوم | يوجه اللوم"
+  },
+  {
+    "id": 704,
+    "word": "wachrütteln",
+    "wordArabic": "يزعزع | يهز"
+  },
+  {
+    "id": 705,
+    "word": "wachsen",
+    "wordArabic": "ينمو | يتوسّع | يزيد"
+  },
+  {
+    "id": 706,
+    "word": "wahren",
+    "wordArabic": "يُحافظ | يَحفظ"
+  },
+  {
+    "id": 707,
+    "word": "wandern",
+    "wordArabic": "يتجوّل | يهاجر"
+  },
+  {
+    "id": 708,
+    "word": "warnen",
+    "wordArabic": "يحذر"
+  },
+  {
+    "id": 709,
+    "word": "warten",
+    "wordArabic": "يتنظر | ينتظر"
+  },
+  {
+    "id": 710,
+    "word": "waschen",
+    "wordArabic": "يغسل | ينظّف"
+  },
+  {
+    "id": 711,
+    "word": "wechseln",
+    "wordArabic": "يبدل | يغيّر"
+  },
+  {
+    "id": 712,
+    "word": "wecken",
+    "wordArabic": "يوقِظ | يثير"
+  },
+  {
+    "id": 713,
+    "word": "weggehen",
+    "wordArabic": "المغادرة | الذهاب بعيداً"
+  },
+  {
+    "id": 714,
+    "word": "wegnehmen",
+    "wordArabic": "يزيل | يأخذ بعيداً"
+  },
+  {
+    "id": 715,
+    "word": "wegräumen",
+    "wordArabic": "يضع جانباً | يُفسح الطريق"
+  },
+  {
+    "id": 716,
+    "word": "weinen | tränen",
+    "wordArabic": "يبكي"
+  },
+  {
+    "id": 717,
+    "word": "weiterfahren",
+    "wordArabic": "يكمل السفر"
+  },
+  {
+    "id": 718,
+    "word": "weitergehen",
+    "wordArabic": "يستمر | يُكمل"
+  },
+  {
+    "id": 719,
+    "word": "weiterleiten",
+    "wordArabic": "يعيد الارسال"
+  },
+  {
+    "id": 720,
+    "word": "weiterverbinden",
+    "wordArabic": "يُوصل | يحوّل عبر الهاتف"
+  },
+  {
+    "id": 721,
+    "word": "wenden",
+    "wordArabic": "يتوجه | يلجأ"
+  },
+  {
+    "id": 722,
+    "word": "werden",
+    "wordArabic": "يُصبح"
+  },
+  {
+    "id": 723,
+    "word": "werfen",
+    "wordArabic": "يرمي | يَلوي"
+  },
+  {
+    "id": 724,
+    "word": "widersprechen",
+    "wordArabic": "يعترض | يناقض"
+  },
+  {
+    "id": 725,
+    "word": "widmen",
+    "wordArabic": "يكرّس"
+  },
+  {
+    "id": 726,
+    "word": "wiedererkennen",
+    "wordArabic": "يتعرّف على"
+  },
+  {
+    "id": 727,
+    "word": "wiederfinden",
+    "wordArabic": "يَعثِر مرة أخرى"
+  },
+  {
+    "id": 728,
+    "word": "wiedergeben",
+    "wordArabic": "يروي | يعيد عرض | ينقل"
+  },
+  {
+    "id": 729,
+    "word": "wiederholen",
+    "wordArabic": "يكرّر"
+  },
+  {
+    "id": 730,
+    "word": "wiedervereinigen",
+    "wordArabic": "يَتَّحِد | يَلُم الشمل"
+  },
+  {
+    "id": 731,
+    "word": "wirken",
+    "wordArabic": "ينفّذ | يؤثّر | يظهر"
+  },
+  {
+    "id": 732,
+    "word": "wischen | gewischt",
+    "wordArabic": "يمسح"
+  },
+  {
+    "id": 733,
+    "word": "wissen",
+    "wordArabic": "يَعلم | يَعرف"
+  },
+  {
+    "id": 734,
+    "word": "wohnen",
+    "wordArabic": "يقيم"
+  },
+  {
+    "id": 735,
+    "word": "wollen",
+    "wordArabic": "يريد | يرغب"
+  },
+  {
+    "id": 736,
+    "word": "verzweifeln",
+    "wordArabic": "يَيْأَس"
+  },
+  {
+    "id": 737,
+    "word": "wählen | auswählen",
+    "wordArabic": "يختار"
+  },
+  {
+    "id": 738,
+    "word": "währen",
+    "wordArabic": "يدوم"
+  },
+  {
+    "id": 739,
+    "word": "wünschen",
+    "wordArabic": "يتمنى | يريد"
+  },
+  {
+    "id": 740,
+    "word": "würzen",
+    "wordArabic": "يتبّل | يضيف التوابل"
+  },
+  {
+    "id": 741,
+    "word": "zeichnen",
+    "wordArabic": "يرسم | يحدّد | يضع علامة"
+  },
+  {
+    "id": 742,
+    "word": "zeigen",
+    "wordArabic": "يعرض | يوضح | يُري"
+  },
+  {
+    "id": 743,
+    "word": "zeihen",
+    "wordArabic": "يتَّهم"
+  },
+  {
+    "id": 744,
+    "word": "zelten",
+    "wordArabic": "يخيّم"
+  },
+  {
+    "id": 745,
+    "word": "zerbrechen",
+    "wordArabic": "ينهار | ينكسر"
+  },
+  {
+    "id": 746,
+    "word": "zergehen",
+    "wordArabic": "يذوب | يَنحَل"
+  },
+  {
+    "id": 747,
+    "word": "zerstören",
+    "wordArabic": "يدمّر"
+  },
+  {
+    "id": 748,
+    "word": "ziehen",
+    "wordArabic": "ينتقل | يجذب"
+  },
+  {
+    "id": 749,
+    "word": "zittern",
+    "wordArabic": "يرتعش"
+  },
+  {
+    "id": 750,
+    "word": "zucken",
+    "wordArabic": "يهتز"
+  },
+  {
+    "id": 751,
+    "word": "zueinanderfinden",
+    "wordArabic": "يتقرب | يتجمع"
+  },
+  {
+    "id": 752,
+    "word": "zugehören",
+    "wordArabic": "ينتمي"
+  },
+  {
+    "id": 753,
+    "word": "zumachen",
+    "wordArabic": "يغلق"
+  },
+  {
+    "id": 754,
+    "word": "zunehmen",
+    "wordArabic": "يكسب | يزيد"
+  },
+  {
+    "id": 755,
+    "word": "zurückbekommen",
+    "wordArabic": "يستعيد"
+  },
+  {
+    "id": 756,
+    "word": "zurückdrehen",
+    "wordArabic": "يعود للوراء"
+  },
+  {
+    "id": 757,
+    "word": "zurückgehen",
+    "wordArabic": "يعود"
+  },
+  {
+    "id": 758,
+    "word": "zurückkehren",
+    "wordArabic": "يعود | يرجع"
+  },
+  {
+    "id": 759,
+    "word": "zurückkommen",
+    "wordArabic": "يعود"
+  },
+  {
+    "id": 760,
+    "word": "zusammenfassen",
+    "wordArabic": "يلخّص"
+  },
+  {
+    "id": 761,
+    "word": "zuschicken",
+    "wordArabic": "يرسل لشخص معيّن"
+  },
+  {
+    "id": 762,
+    "word": "züchten",
+    "wordArabic": "يُكاثر | يُربي (حيوان)"
+  },
+  {
+    "id": 763,
+    "word": "ähneln",
+    "wordArabic": "يماثل | يشبه"
+  },
+  {
+    "id": 764,
+    "word": "ändern",
+    "wordArabic": "يغيّر | يعدّل"
+  },
+  {
+    "id": 765,
+    "word": "ärgern",
+    "wordArabic": "يزعج | يغضب"
+  },
+  {
+    "id": 766,
+    "word": "äußern",
+    "wordArabic": "يعبّر"
+  },
+  {
+    "id": 767,
+    "word": "öffnen",
+    "wordArabic": "يفتح"
+  },
+  {
+    "id": 768,
+    "word": "üben",
+    "wordArabic": "يتدرب"
+  },
+  {
+    "id": 769,
+    "word": "überfliegen",
+    "wordArabic": "يتصفّح | يقرأ بسرعة"
+  },
+  {
+    "id": 770,
+    "word": "überfluten",
+    "wordArabic": "يغمر | يفيض"
+  },
+  {
+    "id": 771,
+    "word": "überfordern",
+    "wordArabic": "يُرهق | يُثقل"
+  },
+  {
+    "id": 772,
+    "word": "überlegen",
+    "wordArabic": "يفكّر | يتأمل"
+  },
+  {
+    "id": 773,
+    "word": "übernachten",
+    "wordArabic": "يبيت"
+  },
+  {
+    "id": 774,
+    "word": "übernehmen",
+    "wordArabic": "يتولى | يتحمّل"
+  },
+  {
+    "id": 775,
+    "word": "überqueren",
+    "wordArabic": "يَعبر | يَجتاز"
+  },
+  {
+    "id": 776,
+    "word": "überraschen",
+    "wordArabic": "يفاجئ"
+  },
+  {
+    "id": 777,
+    "word": "übersetzen",
+    "wordArabic": "يترجم"
+  },
+  {
+    "id": 778,
+    "word": "überwachen",
+    "wordArabic": "يراقب | يُشرف"
+  },
+  {
+    "id": 779,
+    "word": "überzeugen",
+    "wordArabic": "يُقنع"
+  },
+  {
+    "id": 780,
+    "word": "überziehen",
+    "wordArabic": "يغلّف | يكسو"
+  },
+  {
+    "id": 781,
+    "word": "bedürfen",
+    "wordArabic": "يتطلب | يحتاج إلى"
+  },
+  {
+    "id": 782,
+    "word": "aufziehen",
+    "wordArabic": "يربي | يُنشئ"
+  },
+  {
+    "id": 783,
+    "word": "erwerben",
+    "wordArabic": "يكتسب | يقتني"
+  },
+  {
+    "id": 784,
+    "word": "transportieren",
+    "wordArabic": "ينقل"
+  },
+  {
+    "id": 785,
+    "word": "lagern",
+    "wordArabic": "يخزّن"
+  },
+  {
+    "id": 786,
+    "word": "sichern",
+    "wordArabic": "يؤمّن"
+  },
+  {
+    "id": 787,
+    "word": "bewirten",
+    "wordArabic": "يستضيف"
+  },
+  {
+    "id": 788,
+    "word": "einrichten",
+    "wordArabic": "أَسَّسَ | أَنْشَأَ"
+  },
+  {
+    "id": 789,
+    "word": "gestehen",
+    "wordArabic": "يَعْتَرِف | يقرّ"
+  },
+  {
+    "id": 790,
+    "word": "rückkehren",
+    "wordArabic": "يعود (أسلوب رسمي)"
+  },
+  {
+    "id": 791,
+    "word": "ertrinken",
+    "wordArabic": "يَغْرَق"
+  },
+  {
+    "id": 792,
+    "word": "reichen",
+    "wordArabic": "يَكْفي | يُناوِل"
+  },
+  {
+    "id": 793,
+    "word": "verdeutlichen",
+    "wordArabic": "يُوَضِّح | يُبَيِّن"
+  },
+  {
+    "id": 794,
+    "word": "betreffen",
+    "wordArabic": "يَخُصُّ | يَتَعَلَّق بِـ"
+  },
+  {
+    "id": 795,
+    "word": "übersehen",
+    "wordArabic": "يُغْفِل | لا يُلاحِظ"
+  },
+  {
+    "id": 796,
+    "word": "kreuzen",
+    "wordArabic": "يَتَقَاطَع"
+  },
+  {
+    "id": 797,
+    "word": "angeben",
+    "wordArabic": "يتباهى | يُدلي بمعلومة"
+  },
+  {
+    "id": 798,
+    "word": "entfernen",
+    "wordArabic": "يُبعد | ينزع"
+  },
+  {
+    "id": 799,
+    "word": "vertiefen",
+    "wordArabic": "يُعَمِّق"
+  },
+  {
+    "id": 800,
+    "word": "zutreffen",
+    "wordArabic": "يَنْطَبِق | يَصِحّ"
+  },
+  {
+    "id": 801,
+    "word": "definieren",
+    "wordArabic": "يُعَرِّف"
+  },
+  {
+    "id": 802,
+    "word": "aufklären",
+    "wordArabic": "يُوَضِّح | يُوعِّي"
+  },
+  {
+    "id": 803,
+    "word": "klären",
+    "wordArabic": "يُوَضِّح"
+  },
+  {
+    "id": 804,
+    "word": "ermöglichen",
+    "wordArabic": "يُتيح | يُمَكِّن"
+  },
+  {
+    "id": 805,
+    "word": "weisen",
+    "wordArabic": "يُوَجِّه | يُشير"
+  },
+  {
+    "id": 806,
+    "word": "entsorgen",
+    "wordArabic": "التخلص من القمامة"
+  },
+  {
+    "id": 807,
+    "word": "beauftragen",
+    "wordArabic": "يُكلِّف | يُفوِّض"
+  },
+  {
+    "id": 808,
+    "word": "einbrechen",
+    "wordArabic": "يقتحم | يسطو | ينهار"
+  },
+  {
+    "id": 809,
+    "word": "saugen",
+    "wordArabic": "يشفط"
+  },
+  {
+    "id": 810,
+    "word": "ermorden",
+    "wordArabic": "يقتل | يغتال"
+  },
+  {
+    "id": 811,
+    "word": "ausrauben",
+    "wordArabic": "ينهب | يسرق"
+  },
+  {
+    "id": 812,
+    "word": "jagen",
+    "wordArabic": "يصطاد | يطارد"
+  },
+  {
+    "id": 813,
+    "word": "umklammern",
+    "wordArabic": "يتشبث | يعانق"
+  },
+  {
+    "id": 814,
+    "word": "täuschen",
+    "wordArabic": "يخدع | يضلل"
+  },
+  {
+    "id": 815,
+    "word": "erwischen",
+    "wordArabic": "يضبط | يمسك بـ"
+  },
+  {
+    "id": 816,
+    "word": "schwindeln",
+    "wordArabic": "يتحايل | يدوخ"
+  },
+  {
+    "id": 817,
+    "word": "zurechtfinden",
+    "wordArabic": "يتوجّه | يجد طريقه"
+  },
+  {
+    "id": 818,
+    "word": "umblättern",
+    "wordArabic": "يقلب الصفحة"
+  },
+  {
+    "id": 819,
+    "word": "eingeben",
+    "wordArabic": "يُدخِل | يُعطي"
+  },
+  {
+    "id": 820,
+    "word": "schleppen",
+    "wordArabic": "يجرّ | يحمل بصعوبة"
+  },
+  {
+    "id": 821,
+    "word": "vorangehen",
+    "wordArabic": "يتقدّم | يسير بالمقدمة"
+  },
+  {
+    "id": 822,
+    "word": "vergraben",
+    "wordArabic": "يدفن"
+  },
+  {
+    "id": 823,
+    "word": "werben",
+    "wordArabic": "يُعْلِنُ | يُروِّج"
+  },
+  {
+    "id": 824,
+    "word": "rezensieren",
+    "wordArabic": "يُراجع | يستعرض"
+  },
+  {
+    "id": 825,
+    "word": "anstecken",
+    "wordArabic": "يُعدي"
+  },
+  {
+    "id": 826,
+    "word": "orientieren",
+    "wordArabic": "يَتَوَجَّه | يُوَجِّه"
+  },
+  {
+    "id": 827,
+    "word": "vornehmen",
+    "wordArabic": "يَنوي"
+  },
+  {
+    "id": 828,
+    "word": "aufgreifen",
+    "wordArabic": "يَتَنَاوَل | يُعَالِج"
+  },
+  {
+    "id": 829,
+    "word": "beitreten",
+    "wordArabic": "ينضمّ رسمياً"
+  },
+  {
+    "id": 830,
+    "word": "verursachen",
+    "wordArabic": "يسبب"
+  },
+  {
+    "id": 831,
+    "word": "befahren",
+    "wordArabic": "يسير"
+  },
+  {
+    "id": 832,
+    "word": "beschließen",
+    "wordArabic": "يقرّر (قرار رسمي)"
+  },
+  {
+    "id": 833,
+    "word": "tagen",
+    "wordArabic": "يبزغ الفجر"
+  },
+  {
+    "id": 834,
+    "word": "benötigen",
+    "wordArabic": "يحتاج إلى"
+  },
+  {
+    "id": 835,
+    "word": "lästern",
+    "wordArabic": "يستغيب | يجدّف"
+  },
+  {
+    "id": 836,
+    "word": "fördern",
+    "wordArabic": "يشجّع | يدعم"
+  },
+  {
+    "id": 837,
+    "word": "konsumieren",
+    "wordArabic": "يستهلك"
+  },
+  {
+    "id": 838,
+    "word": "abschaffen",
+    "wordArabic": "يلغي"
+  },
+  {
+    "id": 839,
+    "word": "verschwinden",
+    "wordArabic": "يختفي"
+  },
+  {
+    "id": 840,
+    "word": "nähen",
+    "wordArabic": "يُخيط"
+  },
+  {
+    "id": 841,
+    "word": "hupen",
+    "wordArabic": "ينفخ في البوق"
+  },
+  {
+    "id": 842,
+    "word": "übertragen",
+    "wordArabic": "يحوّل المعنى"
+  },
+  {
+    "id": 843,
+    "word": "infizieren",
+    "wordArabic": "يُعدي (مصطلح طبي)"
+  },
+  {
+    "id": 844,
+    "word": "erwärmen",
+    "wordArabic": "يُدفّئ"
+  },
+  {
+    "id": 845,
+    "word": "freilassen",
+    "wordArabic": "ينشر | يُخلي سبيل"
+  },
+  {
+    "id": 846,
+    "word": "prüfen",
+    "wordArabic": "يتحقّق | يراجع"
+  },
+  {
+    "id": 847,
+    "word": "überprüfen",
+    "wordArabic": "يتحقّق بدقّة"
+  },
+  {
+    "id": 848,
+    "word": "erliegen",
+    "wordArabic": "يخضع | يستسلم"
+  },
+  {
+    "id": 849,
+    "word": "sprengen",
+    "wordArabic": "ينفجر | يتفتّت"
+  },
+  {
+    "id": 850,
+    "word": "trauen",
+    "wordArabic": "يجرؤ"
+  },
+  {
+    "id": 851,
+    "word": "multiplizieren",
+    "wordArabic": "يضرب (رياضيات)"
+  },
+  {
+    "id": 852,
+    "word": "subtrahieren",
+    "wordArabic": "يطرح (رياضيات)"
+  },
+  {
+    "id": 853,
+    "word": "addieren",
+    "wordArabic": "يجمع (رياضيات)"
+  },
+  {
+    "id": 854,
+    "word": "summen",
+    "wordArabic": "يُدَنْدِن"
+  },
+  {
+    "id": 855,
+    "word": "lektorieren",
+    "wordArabic": "يُراجع | يُحرَّر"
+  },
+  {
+    "id": 856,
+    "word": "binden",
+    "wordArabic": "يربط | يَعقُد"
+  },
+  {
+    "id": 857,
+    "word": "ausliefern",
+    "wordArabic": "يسلّم (البضائع)"
+  },
+  {
+    "id": 858,
+    "word": "punkten",
+    "wordArabic": "يكسب نقاط | يُحرز تقدّم"
+  },
+  {
+    "id": 859,
+    "word": "eintauchen",
+    "wordArabic": "يغوص | ينغمس بالعمل"
+  },
+  {
+    "id": 860,
+    "word": "eintreffen",
+    "wordArabic": "يصل | يَبلُغ"
+  },
+  {
+    "id": 861,
+    "word": "eintreten",
+    "wordArabic": "يدخل | ينضمّ"
+  },
+  {
+    "id": 862,
+    "word": "feststellen",
+    "wordArabic": "يُحدِّد | يُثبِّت"
+  },
+  {
+    "id": 863,
+    "word": "auspacken",
+    "wordArabic": "يُخرِج من العلبة"
+  },
+  {
+    "id": 864,
+    "word": "funktionieren",
+    "wordArabic": "يعمل بشكل صحيح"
+  },
+  {
+    "id": 865,
+    "word": "kaputtgehen",
+    "wordArabic": "يَتلَف | يَنْكَسِر"
+  },
+  {
+    "id": 866,
+    "word": "zurückschicken",
+    "wordArabic": "يُعيد إرسال الطرد"
+  },
+  {
+    "id": 867,
+    "word": "bereuen",
+    "wordArabic": "يَنْدَم | يَتَحَسَّر"
+  },
+  {
+    "id": 868,
+    "word": "scheiden",
+    "wordArabic": "يَنفَصِل | يَتَطَلَّق | يُفَرِّق"
+  },
+  {
+    "id": 869,
+    "word": "wiedertreffen",
+    "wordArabic": "يلتقي مرة أخرى"
+  },
+  {
+    "id": 870,
+    "word": "gratulieren",
+    "wordArabic": "يُهَنِّئ | يُبارِك"
+  },
+  {
+    "id": 871,
+    "word": "getrauen",
+    "wordArabic": "يَجْرُؤ | يُقْدِم"
+  },
+  {
+    "id": 872,
+    "word": "bedauern",
+    "wordArabic": "يَأسف | يَندم"
+  },
+  {
+    "id": 873,
+    "word": "fortsetzen",
+    "wordArabic": "يستمر | يتابع"
+  },
+  {
+    "id": 874,
+    "word": "gebühren",
+    "wordArabic": "يدفع رسوم (تعرفة)"
+  },
+  {
+    "id": 875,
+    "word": "wahrnehmen",
+    "wordArabic": "يُدرك | يُلاحظ"
+  },
+  {
+    "id": 876,
+    "word": "rechnen",
+    "wordArabic": "يحسب | يتوقّع"
+  },
+  {
+    "id": 877,
+    "word": "verfügen",
+    "wordArabic": "يتوفّر لديه | يُتيح"
+  },
+  {
+    "id": 878,
+    "word": "lecken",
+    "wordArabic": "يلعق"
+  },
+  {
+    "id": 879,
+    "word": "lutchen",
+    "wordArabic": "يمصّ"
+  },
+  {
+    "id": 880,
+    "word": "begeistern",
+    "wordArabic": "يُلهِم | يثير إعجاب"
+  },
+  {
+    "id": 881,
+    "word": "aufheben",
+    "wordArabic": "يلتقط | يحتفظ"
+  },
+  {
+    "id": 882,
+    "word": "flüchten",
+    "wordArabic": "يفر | يهرب"
+  },
+  {
+    "id": 883,
+    "word": "stechen",
+    "wordArabic": "يلسع | يوخذ"
+  }
+]
