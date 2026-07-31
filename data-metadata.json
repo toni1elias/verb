@@ -417,7 +417,7 @@
   {
     "id": 84,
     "word": "aufräumen",
-    "wordArabic": "يرتب"
+    "wordArabic": "يُنظِّف | يُرتِّب المكان"
   },
   {
     "id": 85,
@@ -472,7 +472,7 @@
   {
     "id": 95,
     "word": "ausbrechen",
-    "wordArabic": "ينفجر | يهرب"
+    "wordArabic": "ينفجر | يَهْرُب"
   },
   {
     "id": 96,
@@ -4407,11 +4407,51 @@
   {
     "id": 882,
     "word": "flüchten",
-    "wordArabic": "يفر | يهرب"
+    "wordArabic": "يَفِرّ | يَهْرُب (عن فصد)"
   },
   {
     "id": 883,
     "word": "stechen",
     "wordArabic": "يلسع | يوخذ"
+  },
+  {
+    "id": 884,
+    "word": "aussterben",
+    "wordArabic": "ينقرض"
+  },
+  {
+    "id": 885,
+    "word": "erschrecken",
+    "wordArabic": "يُرعِب | يُخيف"
+  },
+  {
+    "id": 886,
+    "word": "erwachen",
+    "wordArabic": "يستيقظ | يصحو"
+  },
+  {
+    "id": 887,
+    "word": "überwinden",
+    "wordArabic": "يتغلّب على | يقهر"
+  },
+  {
+    "id": 888,
+    "word": "davonlaufen",
+    "wordArabic": "يَفِرّ | يَهْرُب"
+  },
+  {
+    "id": 889,
+    "word": "ordnen",
+    "wordArabic": "يُرتِّب | يُنظِّم | يُصنِّف"
+  },
+  {
+    "id": 890,
+    "word": "anordnen",
+    "wordArabic": "يَأمُر | يُصدِر تعليمات"
+  },
+  {
+    "id": 891,
+    "word": "reißen",
+    "wordArabic": "يمزّق | يشدّ بقوة"
   }
 ]
