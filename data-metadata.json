@@ -27,7 +27,7 @@
   {
     "id": 6,
     "word": "abdecken",
-    "wordArabic": "يُغطي (بالكامل) | يَحجب"
+    "wordArabic": "يُزيح الغطاء | يَحجب"
   },
   {
     "id": 7,
@@ -4453,5 +4453,15 @@
     "id": 891,
     "word": "reißen",
     "wordArabic": "يمزّق | يشدّ بقوة"
+  },
+  {
+    "id": 892,
+    "word": "verdecken",
+    "wordArabic": "يُغطّي | يُخفي"
+  },
+  {
+    "id": 893,
+    "word": "decken",
+    "wordArabic": "يُغطّي"
   }
 ]
