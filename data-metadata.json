@@ -2001,8 +2001,8 @@
   },
   {
     "id": 401,
-    "word": "kreativ",
-    "wordArabic": "مبدع"
+    "word": "decken",
+    "wordArabic": "يُغطّي"
   },
   {
     "id": 402,
@@ -2221,8 +2221,8 @@
   },
   {
     "id": 445,
-    "word": "mitgenommen",
-    "wordArabic": "يأخذ معه"
+    "word": "verdecken",
+    "wordArabic": "يُغطّي | يُخفي"
   },
   {
     "id": 446,
@@ -4456,12 +4456,7 @@
   },
   {
     "id": 892,
-    "word": "verdecken",
-    "wordArabic": "يُغطّي | يُخفي"
-  },
-  {
-    "id": 893,
-    "word": "decken",
-    "wordArabic": "يُغطّي"
+    "word": "erfassen",
+    "wordArabic": "يُسجّل | يُدوّن"
   }
 ]
