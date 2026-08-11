@@ -4503,5 +4503,40 @@
     "id": 901,
     "word": "schweben",
     "wordArabic": "يَطْفُو | يَحُوم"
+  },
+  {
+    "id": 902,
+    "word": "wetten",
+    "wordArabic": "يُرَاهِن"
+  },
+  {
+    "id": 903,
+    "word": "moderieren",
+    "wordArabic": "يُدير نقاش أو جلسة"
+  },
+  {
+    "id": 904,
+    "word": "einholen",
+    "wordArabic": "اللحاق بـ | إدراك | جلب"
+  },
+  {
+    "id": 905,
+    "word": "experimentieren",
+    "wordArabic": "يُجري تجربة"
+  },
+  {
+    "id": 906,
+    "word": "erregen",
+    "wordArabic": "يُهيّج | يُثير"
+  },
+  {
+    "id": 907,
+    "word": "ausrufen",
+    "wordArabic": "يُعلن رسميًا"
+  },
+  {
+    "id": 908,
+    "word": "übertreiben",
+    "wordArabic": "يُبالغ"
   }
 ]
