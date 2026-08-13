@@ -57,7 +57,7 @@
   {
     "id": 12,
     "word": "ablehnen",
-    "wordArabic": "يرفض | يصدّ | يعارض"
+    "wordArabic": "يرفض | يعارض (رسمي)"
   },
   {
     "id": 13,
@@ -1702,7 +1702,7 @@
   {
     "id": 341,
     "word": "geraten",
-    "wordArabic": "يقع في | ينزلق إلى"
+    "wordArabic": "يقع | يتورط (دون قصد)"
   },
   {
     "id": 342,
@@ -2522,7 +2522,7 @@
   {
     "id": 505,
     "word": "rutschen",
-    "wordArabic": "ينزلق | يتزحلق | ينحدر"
+    "wordArabic": "يتزحلق (حركة ممتعة)"
   },
   {
     "id": 506,
@@ -2702,7 +2702,7 @@
   {
     "id": 541,
     "word": "senken",
-    "wordArabic": "يُخفض | يهبط"
+    "wordArabic": "يُغْرِق | يُخْفِض | يُسْقِط"
   },
   {
     "id": 542,
@@ -4563,5 +4563,55 @@
     "id": 913,
     "word": "würdigen",
     "wordArabic": "يُثْنِي | يُقَدِّر"
+  },
+  {
+    "id": 914,
+    "word": "kollidieren",
+    "wordArabic": "يصطدم"
+  },
+  {
+    "id": 915,
+    "word": "sinken",
+    "wordArabic": "يَغْرَق | يَهْبُط | يَنْخَفض"
+  },
+  {
+    "id": 916,
+    "word": "ertränken",
+    "wordArabic": "يُغْرِق"
+  },
+  {
+    "id": 917,
+    "word": "vorbilden",
+    "wordArabic": "يكون قدوة"
+  },
+  {
+    "id": 918,
+    "word": "abrutschen",
+    "wordArabic": "ينزلق | ينحدر"
+  },
+  {
+    "id": 919,
+    "word": "haften",
+    "wordArabic": "يلتصق | يتحمل المسؤولية"
+  },
+  {
+    "id": 920,
+    "word": "anhaften",
+    "wordArabic": "يلتصق (التصاق مجازي)"
+  },
+  {
+    "id": 921,
+    "word": "dienen",
+    "wordArabic": "يُستخدم | يخدم غرض"
+  },
+  {
+    "id": 922,
+    "word": "abweisen",
+    "wordArabic": "يرفض | يَصُد"
+  },
+  {
+    "id": 923,
+    "word": "einbeziehen",
+    "wordArabic": "يَشْمَل"
   }
 ]
