@@ -292,7 +292,7 @@
   {
     "id": 59,
     "word": "ansteigen",
-    "wordArabic": "يَرتَفِع | يَزداد"
+    "wordArabic": "يَرْتَفِع | يَزْدَاد"
   },
   {
     "id": 60,
@@ -432,7 +432,7 @@
   {
     "id": 87,
     "word": "aufsteigen",
-    "wordArabic": "يرتفع | يصعد"
+    "wordArabic": "يَرْتَقِي | يَصْعَد"
   },
   {
     "id": 88,
@@ -577,7 +577,7 @@
   {
     "id": 116,
     "word": "beantragen",
-    "wordArabic": "يتقدّم بطلب"
+    "wordArabic": "يُقَدِّم طَلَب"
   },
   {
     "id": 117,
@@ -692,7 +692,7 @@
   {
     "id": 139,
     "word": "beitragen",
-    "wordArabic": "يُساهم | يُشارك"
+    "wordArabic": "يُسَاهِم | يُشَارِك"
   },
   {
     "id": 140,
@@ -882,17 +882,17 @@
   {
     "id": 177,
     "word": "betragen",
-    "wordArabic": "يَبلغ | يقدّر | يحسب"
+    "wordArabic": "يَبْلُغ | يُقَدِّر"
   },
   {
     "id": 178,
     "word": "betreiben",
-    "wordArabic": "يشغّل | يتابع | يمارس"
+    "wordArabic": "يُشَغّل | يُمَارِس | يُدِير"
   },
   {
     "id": 179,
     "word": "betreten",
-    "wordArabic": "يدخل مكاناً أو يطأ شيئاً"
+    "wordArabic": "يدخل مكاناً | يطأ شيئاً"
   },
   {
     "id": 180,
@@ -1192,7 +1192,7 @@
   {
     "id": 239,
     "word": "einräumen",
-    "wordArabic": "يرتب (داخل شيء)"
+    "wordArabic": "يرتب (داخلي) | يمنح"
   },
   {
     "id": 240,
@@ -1212,7 +1212,7 @@
   {
     "id": 243,
     "word": "eintragen",
-    "wordArabic": "يضع | يسجل"
+    "wordArabic": "يُسَجِّل | يُدَوِّن"
   },
   {
     "id": 244,
@@ -1397,7 +1397,7 @@
   {
     "id": 280,
     "word": "ernennen",
-    "wordArabic": "يعيّن | يكلّف"
+    "wordArabic": "يُعَيِّن | يُكَلِّف"
   },
   {
     "id": 281,
@@ -2292,7 +2292,7 @@
   {
     "id": 459,
     "word": "nennen",
-    "wordArabic": "يسمي | يذكر"
+    "wordArabic": "يُسَمِّي | يَذْكُر"
   },
   {
     "id": 460,
@@ -2537,7 +2537,7 @@
   {
     "id": 508,
     "word": "rühren",
-    "wordArabic": "يمزج | يحرّك"
+    "wordArabic": "يَمْزُج"
   },
   {
     "id": 509,
@@ -2857,7 +2857,7 @@
   {
     "id": 572,
     "word": "steigen",
-    "wordArabic": "يتسلّق | يرتفع"
+    "wordArabic": "يَرْتَفِع | يَصْعَد"
   },
   {
     "id": 573,
@@ -3002,7 +3002,7 @@
   {
     "id": 601,
     "word": "tragen",
-    "wordArabic": "يرتدي | يحمل"
+    "wordArabic": "يَحْمُل | يَرْتَدِي"
   },
   {
     "id": 602,
@@ -3012,7 +3012,7 @@
   {
     "id": 603,
     "word": "treiben",
-    "wordArabic": "يدفع | يُحرّك | يمارس"
+    "wordArabic": "يطفو"
   },
   {
     "id": 604,
@@ -3067,7 +3067,7 @@
   {
     "id": 614,
     "word": "umsteigen",
-    "wordArabic": "يبدل"
+    "wordArabic": "يَنْتَقِل | يُغَيِّر (الوَاسِطَة)"
   },
   {
     "id": 615,
@@ -3417,7 +3417,7 @@
   {
     "id": 684,
     "word": "vertreiben",
-    "wordArabic": "يطرد"
+    "wordArabic": "يَطْرُد | يُشَرِّد"
   },
   {
     "id": 685,
@@ -3507,7 +3507,7 @@
   {
     "id": 702,
     "word": "vortragen",
-    "wordArabic": "يلقي محاضرة"
+    "wordArabic": "يُلْقِي محاضرة"
   },
   {
     "id": 703,
@@ -4032,7 +4032,7 @@
   {
     "id": 807,
     "word": "beauftragen",
-    "wordArabic": "يُكلِّف | يُفوِّض"
+    "wordArabic": "يُكَلِّف | يُفَوِّض"
   },
   {
     "id": 808,
@@ -4207,7 +4207,7 @@
   {
     "id": 842,
     "word": "übertragen",
-    "wordArabic": "يحوّل المعنى"
+    "wordArabic": "يُحَوِّل | يَبُثّ"
   },
   {
     "id": 843,
@@ -4487,7 +4487,7 @@
   {
     "id": 898,
     "word": "berücksichtigen",
-    "wordArabic": "يراعي | يعتبر"
+    "wordArabic": "يأخذ بعين الاعتبار"
   },
   {
     "id": 899,
@@ -4512,7 +4512,7 @@
   {
     "id": 903,
     "word": "moderieren",
-    "wordArabic": "يُدير نقاش أو جلسة"
+    "wordArabic": "يُدير نقاش | يُدير جلسة"
   },
   {
     "id": 904,
@@ -4537,7 +4537,7 @@
   {
     "id": 908,
     "word": "übertreiben",
-    "wordArabic": "يُبالغ"
+    "wordArabic": "يُبَالِغ | يُفْرِط"
   },
   {
     "id": 909,
@@ -4613,5 +4613,35 @@
     "id": 923,
     "word": "einbeziehen",
     "wordArabic": "يَشْمَل"
+  },
+  {
+    "id": 924,
+    "word": "beaufsichtigen",
+    "wordArabic": "يشرف على"
+  },
+  {
+    "id": 925,
+    "word": "benennen",
+    "wordArabic": "يُسَمِّي | يُحَدِّد"
+  },
+  {
+    "id": 926,
+    "word": "einsteigen",
+    "wordArabic": "يَدْخُل | يَرْكَب"
+  },
+  {
+    "id": 927,
+    "word": "antreiben",
+    "wordArabic": "يَدْفَع | يُحَرِّك"
+  },
+  {
+    "id": 928,
+    "word": "rattern",
+    "wordArabic": "يُقَرْقِع | يُخَشْخِش"
+  },
+  {
+    "id": 929,
+    "word": "lenken",
+    "wordArabic": "يوجه السيارة | يتحكم"
   }
 ]
