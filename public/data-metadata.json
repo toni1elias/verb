@@ -1447,7 +1447,7 @@
   {
     "id": 290,
     "word": "erweitern",
-    "wordArabic": "يوسّع | يمدّد"
+    "wordArabic": "يُوَسِّع | يُمَدِّد"
   },
   {
     "id": 291,
@@ -4032,7 +4032,7 @@
   {
     "id": 807,
     "word": "beauftragen",
-    "wordArabic": "يُكَلِّف | يُفَوِّض"
+    "wordArabic": "يُفَوِّض | يُوَكِّل"
   },
   {
     "id": 808,
@@ -4643,5 +4643,40 @@
     "id": 929,
     "word": "lenken",
     "wordArabic": "يوجه السيارة | يتحكم"
+  },
+  {
+    "id": 930,
+    "word": "motorisieren",
+    "wordArabic": "يُمَكْنِن | يُزَوِّد بِمُحَرِّك"
+  },
+  {
+    "id": 931,
+    "word": "auftragen",
+    "wordArabic": "يُكَلِّف"
+  },
+  {
+    "id": 932,
+    "word": "entspringen",
+    "wordArabic": "يَنْبَع | يَنْبَثِق"
+  },
+  {
+    "id": 933,
+    "word": "zielen",
+    "wordArabic": "يَهْدِف إلى | يَرْمِي إلى"
+  },
+  {
+    "id": 934,
+    "word": "ausbauen",
+    "wordArabic": "يُوَسِّع | يُطَوِّر | يُعَزِّز"
+  },
+  {
+    "id": 935,
+    "word": "mangeln",
+    "wordArabic": "يَنْقَص | يَعُوز | يَفْتَقِر"
+  },
+  {
+    "id": 936,
+    "word": "ablaufen",
+    "wordArabic": "ينتهي | ينقضي"
   }
 ]
