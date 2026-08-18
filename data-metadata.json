@@ -1092,7 +1092,7 @@
   {
     "id": 219,
     "word": "drücken",
-    "wordArabic": "يضغط زر"
+    "wordArabic": "يَضغط زر"
   },
   {
     "id": 220,
@@ -2117,7 +2117,7 @@
   {
     "id": 424,
     "word": "liefern",
-    "wordArabic": "يوصل | يقدّم | يوفّر"
+    "wordArabic": "يوصل | يقدّم"
   },
   {
     "id": 425,
@@ -2767,7 +2767,7 @@
   {
     "id": 554,
     "word": "sparen",
-    "wordArabic": "يحفظ | يدّخر | يوفّر"
+    "wordArabic": "يحفظ | يدّخر"
   },
   {
     "id": 555,
@@ -4282,7 +4282,7 @@
   {
     "id": 857,
     "word": "ausliefern",
-    "wordArabic": "يسلّم (البضائع)"
+    "wordArabic": "يُسلّم (البضائع)"
   },
   {
     "id": 858,
@@ -4678,5 +4678,45 @@
     "id": 936,
     "word": "ablaufen",
     "wordArabic": "ينتهي | ينقضي"
+  },
+  {
+    "id": 937,
+    "word": "bereitstellen",
+    "wordArabic": "يُوفّر | يُتيح"
+  },
+  {
+    "id": 938,
+    "word": "einspritzen",
+    "wordArabic": "يَحْقُن"
+  },
+  {
+    "id": 939,
+    "word": "spritzen",
+    "wordArabic": "يَحْقُن | يَرُش"
+  },
+  {
+    "id": 940,
+    "word": "zünden",
+    "wordArabic": "يُوقِد | يُشْعِل"
+  },
+  {
+    "id": 941,
+    "word": "abgeben",
+    "wordArabic": "يُسلّم | يُصدر"
+  },
+  {
+    "id": 942,
+    "word": "verbünden",
+    "wordArabic": "يتّحد | يتحالف"
+  },
+  {
+    "id": 943,
+    "word": "verdichten",
+    "wordArabic": "يَضغط | يُكثف"
+  },
+  {
+    "id": 944,
+    "word": "revolutionieren",
+    "wordArabic": "يصنع أمر ثوري"
   }
 ]
