@@ -72,7 +72,7 @@
   {
     "id": 15,
     "word": "abmachen",
-    "wordArabic": "يوافق"
+    "wordArabic": "يتّفق | ينسّق موعداً"
   },
   {
     "id": 16,
@@ -437,7 +437,7 @@
   {
     "id": 88,
     "word": "aufstellen",
-    "wordArabic": "يُنصب | يركّب"
+    "wordArabic": "يُنْصِب | يركّب"
   },
   {
     "id": 89,
@@ -557,7 +557,7 @@
   {
     "id": 112,
     "word": "basteln",
-    "wordArabic": "يركب | يصنع"
+    "wordArabic": "يصنع أشغال يدوية"
   },
   {
     "id": 113,
@@ -2237,7 +2237,7 @@
   {
     "id": 448,
     "word": "montieren",
-    "wordArabic": "يركب | يثبت"
+    "wordArabic": "يركّب | يثبّت"
   },
   {
     "id": 449,
@@ -2457,7 +2457,7 @@
   {
     "id": 492,
     "word": "reiten",
-    "wordArabic": "يركب الخيل"
+    "wordArabic": "يَرْكَب الخيل"
   },
   {
     "id": 493,
@@ -4718,5 +4718,15 @@
     "id": 944,
     "word": "revolutionieren",
     "wordArabic": "يصنع أمر ثوري"
+  },
+  {
+    "id": 945,
+    "word": "einbauen",
+    "wordArabic": "يركّب داخل شيء"
+  },
+  {
+    "id": 946,
+    "word": "einwilligen",
+    "wordArabic": "يوافق | يرضى"
   }
 ]
