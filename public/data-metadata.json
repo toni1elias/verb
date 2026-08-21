@@ -847,7 +847,7 @@
   {
     "id": 170,
     "word": "bestreuen",
-    "wordArabic": "يرش"
+    "wordArabic": "يَرُش"
   },
   {
     "id": 171,
@@ -4102,7 +4102,7 @@
   {
     "id": 821,
     "word": "vorangehen",
-    "wordArabic": "يتقدّم | يسير بالمقدمة"
+    "wordArabic": "يتقدّم | يكون قدوة"
   },
   {
     "id": 822,
@@ -4452,7 +4452,7 @@
   {
     "id": 891,
     "word": "reißen",
-    "wordArabic": "يمزّق | يشدّ بقوة"
+    "wordArabic": "يمزّق | يسحب بقوة"
   },
   {
     "id": 892,
@@ -4728,5 +4728,55 @@
     "id": 946,
     "word": "einwilligen",
     "wordArabic": "يوافق | يرضى"
+  },
+  {
+    "id": 947,
+    "word": "abperlen",
+    "wordArabic": "يتقطّر"
+  },
+  {
+    "id": 948,
+    "word": "einsickern",
+    "wordArabic": "يتسرّب | يتغلغل"
+  },
+  {
+    "id": 949,
+    "word": "mitreißen",
+    "wordArabic": "يُلهِم | يسحب معه"
+  },
+  {
+    "id": 950,
+    "word": "zerfließen",
+    "wordArabic": "ينساب بعد الذوبان"
+  },
+  {
+    "id": 951,
+    "word": "sprühen",
+    "wordArabic": "يَرُش | يَبُخ"
+  },
+  {
+    "id": 952,
+    "word": "kreiden",
+    "wordArabic": "يرسم بالطباشير"
+  },
+  {
+    "id": 953,
+    "word": "schrägen",
+    "wordArabic": "يُميل"
+  },
+  {
+    "id": 954,
+    "word": "beschmutzen",
+    "wordArabic": "يُلوِّث | يُلطِّخ"
+  },
+  {
+    "id": 955,
+    "word": "schwappen",
+    "wordArabic": "يتماوَج | يتخضّخض"
+  },
+  {
+    "id": 956,
+    "word": "vorgehen",
+    "wordArabic": "يمضي | يتقدّم"
   }
 ]
