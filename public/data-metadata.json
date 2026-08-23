@@ -1247,7 +1247,7 @@
   {
     "id": 250,
     "word": "engagieren",
-    "wordArabic": "يشارك"
+    "wordArabic": "يُشارك | يَنخرِط"
   },
   {
     "id": 251,
@@ -1282,12 +1282,12 @@
   {
     "id": 257,
     "word": "enttäuschen",
-    "wordArabic": "يُخيّب الأمل | يُحبط"
+    "wordArabic": "يُخيّب الأمل | يُخذِل"
   },
   {
     "id": 258,
     "word": "entwickeln",
-    "wordArabic": "يطوّر | يتطوّر | يتحول"
+    "wordArabic": "يُطوِّر | يتطوّر | يتحول"
   },
   {
     "id": 259,
@@ -1417,7 +1417,7 @@
   {
     "id": 284,
     "word": "erschließen",
-    "wordArabic": "يستنتج | يفهم | يطوّر"
+    "wordArabic": "يستنتج | يفهم"
   },
   {
     "id": 285,
@@ -1617,7 +1617,7 @@
   {
     "id": 324,
     "word": "frustrieren",
-    "wordArabic": "يُحبط | يُخيّب الأمل"
+    "wordArabic": "يُحبِط | يَشعُر بالعجز"
   },
   {
     "id": 325,
@@ -3097,7 +3097,7 @@
   {
     "id": 620,
     "word": "unterkriegen",
-    "wordArabic": "يُقهر | يُحبط | ينهزم"
+    "wordArabic": "يُكسِّر العزيمة (معنوياً)"
   },
   {
     "id": 621,
@@ -3447,7 +3447,7 @@
   {
     "id": 690,
     "word": "voranbringen",
-    "wordArabic": "يتقدم | يشجّع"
+    "wordArabic": "يُطوِّر | يُقدِّم"
   },
   {
     "id": 691,
@@ -4177,7 +4177,7 @@
   {
     "id": 836,
     "word": "fördern",
-    "wordArabic": "يشجّع | يدعم"
+    "wordArabic": "يُعزِّز | يُدعِّم | يُنمّي"
   },
   {
     "id": 837,
@@ -4778,5 +4778,30 @@
     "id": 956,
     "word": "vorgehen",
     "wordArabic": "يمضي | يتقدّم"
+  },
+  {
+    "id": 957,
+    "word": "bekennen",
+    "wordArabic": "يَعترف | يُقِرّ"
+  },
+  {
+    "id": 958,
+    "word": "entmutigen",
+    "wordArabic": "يُحبِط | يُثبِّط العزيمة"
+  },
+  {
+    "id": 959,
+    "word": "ermutigen",
+    "wordArabic": "يُشجِّع | يُحفِّز"
+  },
+  {
+    "id": 960,
+    "word": "schleifen",
+    "wordArabic": "يَصقُل | يُنعِّم"
+  },
+  {
+    "id": 961,
+    "word": "entwerfen | design",
+    "wordArabic": "يُصَمِّم شكل أو مخطط"
   }
 ]
