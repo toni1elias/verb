@@ -1802,7 +1802,7 @@
   {
     "id": 361,
     "word": "helfen",
-    "wordArabic": "يساعد"
+    "wordArabic": "يُساعِد"
   },
   {
     "id": 362,
@@ -3122,7 +3122,7 @@
   {
     "id": 625,
     "word": "unterstützen",
-    "wordArabic": "يدعم | يساعد | يساند"
+    "wordArabic": "يَدعم | يُساعِد | يساند"
   },
   {
     "id": 626,
@@ -4803,5 +4803,30 @@
     "id": 961,
     "word": "entwerfen | design",
     "wordArabic": "يُصَمِّم شكل أو مخطط"
+  },
+  {
+    "id": 962,
+    "word": "nachhelfen",
+    "wordArabic": "يُقَوّي | يُدعّم"
+  },
+  {
+    "id": 963,
+    "word": "eignen",
+    "wordArabic": "يناسب | يصلح لـ"
+  },
+  {
+    "id": 964,
+    "word": "andrehen",
+    "wordArabic": "يَلفّ | يدوّر"
+  },
+  {
+    "id": 965,
+    "word": "beweisen",
+    "wordArabic": "يُبرهِن | يُثبِت"
+  },
+  {
+    "id": 966,
+    "word": "knoten",
+    "wordArabic": "يَعقُد"
   }
 ]
