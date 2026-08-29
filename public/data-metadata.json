@@ -447,7 +447,7 @@
   {
     "id": 90,
     "word": "aufteilen",
-    "wordArabic": "يوزّع | يقسّم"
+    "wordArabic": "يُوَزِّع | يقسّم"
   },
   {
     "id": 91,
@@ -907,7 +907,7 @@
   {
     "id": 182,
     "word": "beurteilen",
-    "wordArabic": "يَحكم | يَحكم على"
+    "wordArabic": "يُقَيِّم | يَحْكُم على"
   },
   {
     "id": 183,
@@ -922,7 +922,7 @@
   {
     "id": 185,
     "word": "bewerten",
-    "wordArabic": "يُقيّم"
+    "wordArabic": "يُقَيِّم (درجة أو رقم)"
   },
   {
     "id": 186,
@@ -2977,7 +2977,7 @@
   {
     "id": 596,
     "word": "teilen",
-    "wordArabic": "يشارك | يقسّم"
+    "wordArabic": "يُشارك | يُقَسِّم"
   },
   {
     "id": 597,
@@ -3407,7 +3407,7 @@
   {
     "id": 682,
     "word": "verteilen",
-    "wordArabic": "يوزع"
+    "wordArabic": "يُوَزِّع"
   },
   {
     "id": 683,
@@ -4843,5 +4843,25 @@
     "id": 969,
     "word": "entladen",
     "wordArabic": "يُفرّغ البضائع"
+  },
+  {
+    "id": 970,
+    "word": "einteilen",
+    "wordArabic": "يُقَسِّم | ينظّم"
+  },
+  {
+    "id": 971,
+    "word": "anerkennen",
+    "wordArabic": "يَعترِف بـ"
+  },
+  {
+    "id": 972,
+    "word": "absolvieren",
+    "wordArabic": "يُكمِل | يُنهي"
+  },
+  {
+    "id": 973,
+    "word": "vermeiden",
+    "wordArabic": "يتجنّب | يتفادى"
   }
 ]
