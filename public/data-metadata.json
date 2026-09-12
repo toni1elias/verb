@@ -1217,7 +1217,7 @@
   {
     "id": 244,
     "word": "einwandern",
-    "wordArabic": "يهاجر"
+    "wordArabic": "يُهاجِرُ إلى الداخل"
   },
   {
     "id": 245,
@@ -1231,8 +1231,8 @@
   },
   {
     "id": 247,
-    "word": "emigrieren",
-    "wordArabic": "يهاجر"
+    "word": "emigrieren | zuwandern",
+    "wordArabic": "يُهاجِرُ"
   },
   {
     "id": 248,
@@ -3456,8 +3456,8 @@
   },
   {
     "id": 692,
-    "word": "vorbei-laufen",
-    "wordArabic": "يمشي من أمام"
+    "word": "vorbeilaufen",
+    "wordArabic": "يمرّ بجانب"
   },
   {
     "id": 693,
@@ -3532,7 +3532,7 @@
   {
     "id": 707,
     "word": "wandern",
-    "wordArabic": "يتجوّل | يهاجر"
+    "wordArabic": "يتجوّل"
   },
   {
     "id": 708,
@@ -4852,7 +4852,7 @@
   {
     "id": 971,
     "word": "anerkennen",
-    "wordArabic": "يَعترِف بـ"
+    "wordArabic": "يَعترِف أو يعتمد رسمياً"
   },
   {
     "id": 972,
@@ -4863,5 +4863,50 @@
     "id": 973,
     "word": "vermeiden",
     "wordArabic": "يتجنّب | يتفادى"
+  },
+  {
+    "id": 974,
+    "word": "bewilligen",
+    "wordArabic": "يُصدّق | يمنح تصريح"
+  },
+  {
+    "id": 975,
+    "word": "verfahren",
+    "wordArabic": "يتصرّف بطريقة معيّنة"
+  },
+  {
+    "id": 976,
+    "word": "einschalten",
+    "wordArabic": "يُشغِّل (جهاز أو آلة)"
+  },
+  {
+    "id": 977,
+    "word": "gebären",
+    "wordArabic": "تَلِد | تُنْجِب"
+  },
+  {
+    "id": 978,
+    "word": "versehen",
+    "wordArabic": "يُؤَدِّي | يُخْطئ سَهْواً"
+  },
+  {
+    "id": 979,
+    "word": "aufschreiben",
+    "wordArabic": "يكتب (بهدف التوثيق)"
+  },
+  {
+    "id": 980,
+    "word": "wähnen",
+    "wordArabic": "يظنّ | يعتقد"
+  },
+  {
+    "id": 981,
+    "word": "zugreifen",
+    "wordArabic": "يستفيد من | يصل إلى"
+  },
+  {
+    "id": 982,
+    "word": "verneinen",
+    "wordArabic": "يَنفي - يُنكر الإجابة"
   }
 ]
