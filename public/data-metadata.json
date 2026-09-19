@@ -4907,6 +4907,36 @@
   {
     "id": 982,
     "word": "verneinen",
-    "wordArabic": "يَنفي - يُنكر الإجابة"
+    "wordArabic": "يَنفي | يُنكر الإجابة"
+  },
+  {
+    "id": 983,
+    "word": "auslaugen",
+    "wordArabic": "يَستنزِف | يُرهِق"
+  },
+  {
+    "id": 984,
+    "word": "verschwenden",
+    "wordArabic": "يُهدِر | يُضيّع"
+  },
+  {
+    "id": 985,
+    "word": "verzögern",
+    "wordArabic": "يؤخِّر | يتأخَّر"
+  },
+  {
+    "id": 986,
+    "word": "zögern",
+    "wordArabic": "يتردد | يتلكأ"
+  },
+  {
+    "id": 987,
+    "word": "beheben",
+    "wordArabic": "يُصْلِح | يُعَالِج"
+  },
+  {
+    "id": 988,
+    "word": "verraten",
+    "wordArabic": "يَخُون | يُفْشِي"
   }
 ]
