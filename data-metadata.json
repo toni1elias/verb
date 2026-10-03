@@ -1142,7 +1142,7 @@
   {
     "id": 229,
     "word": "einigen sich",
-    "wordArabic": "يتفق"
+    "wordArabic": "يتفق | يتصالح"
   },
   {
     "id": 230,
@@ -3141,7 +3141,7 @@
   },
   {
     "id": 629,
-    "word": "verabreden",
+    "word": "abreden | verabreden",
     "wordArabic": "يتفق على لقاء | يحدد موعد"
   },
   {
@@ -4836,7 +4836,7 @@
   },
   {
     "id": 968,
-    "word": "beladen",
+    "word": "laden | beladen",
     "wordArabic": "يُحمّل البضائع"
   },
   {
@@ -4938,5 +4938,100 @@
     "id": 988,
     "word": "verraten",
     "wordArabic": "يَخُون | يُفْشِي"
+  },
+  {
+    "id": 989,
+    "word": "einhalten",
+    "wordArabic": "يَلْتَزِم"
+  },
+  {
+    "id": 990,
+    "word": "beeilen",
+    "wordArabic": "يَسْتَعْجِل | يُسَارِع"
+  },
+  {
+    "id": 991,
+    "word": "kommunizieren",
+    "wordArabic": "يَتَواصَل"
+  },
+  {
+    "id": 992,
+    "word": "beschleunigen",
+    "wordArabic": "يُسَرِّع"
+  },
+  {
+    "id": 993,
+    "word": "einweisen",
+    "wordArabic": "يُوَجِّه | يُرْشِد"
+  },
+  {
+    "id": 994,
+    "word": "mithalten",
+    "wordArabic": "يُجَارِي | يُنَافِس"
+  },
+  {
+    "id": 995,
+    "word": "sägen | zersägen",
+    "wordArabic": "يَنْشُر الخشب"
+  },
+  {
+    "id": 996,
+    "word": "schweißen",
+    "wordArabic": "يَلْحَم المعدن"
+  },
+  {
+    "id": 997,
+    "word": "überleben",
+    "wordArabic": "ينجو"
+  },
+  {
+    "id": 998,
+    "word": "verladen",
+    "wordArabic": "يُحمِّل | يشحن"
+  },
+  {
+    "id": 999,
+    "word": "kassieren",
+    "wordArabic": "يحصّل المال"
+  },
+  {
+    "id": 1000,
+    "word": "befördern",
+    "wordArabic": "يُرقّي | يَنقُل"
+  },
+  {
+    "id": 1001,
+    "word": "berechnen",
+    "wordArabic": "يحسب التكاليف"
+  },
+  {
+    "id": 1002,
+    "word": "aufzeichnen",
+    "wordArabic": "يسجّل | يوثّق"
+  },
+  {
+    "id": 1003,
+    "word": "spekulieren",
+    "wordArabic": "يَتَكهَّن | يُضارِب"
+  },
+  {
+    "id": 1004,
+    "word": "zustellen",
+    "wordArabic": "يُسَلِّم"
+  },
+  {
+    "id": 1005,
+    "word": "zubereiten",
+    "wordArabic": "يُحَضِّر"
+  },
+  {
+    "id": 1006,
+    "word": "bedingen",
+    "wordArabic": "يستلزم | يؤدي إلى"
+  },
+  {
+    "id": 1007,
+    "word": "streiken",
+    "wordArabic": "يُضرِب عن العمل"
   }
 ]
