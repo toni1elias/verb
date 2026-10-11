@@ -201,8 +201,8 @@
   },
   {
     "id": 41,
-    "word": "angestellten",
-    "wordArabic": "يُوظّف"
+    "word": "digitalisieren",
+    "wordArabic": "يحوّل إلى الرقمية"
   },
   {
     "id": 42,
@@ -276,8 +276,8 @@
   },
   {
     "id": 56,
-    "word": "ansprachen",
-    "wordArabic": "يخاطب"
+    "word": "optimieren",
+    "wordArabic": "يحسّن"
   },
   {
     "id": 57,
@@ -901,8 +901,8 @@
   },
   {
     "id": 181,
-    "word": "betroffen",
-    "wordArabic": "يتأثّر"
+    "word": "stornieren",
+    "wordArabic": "يُلغي"
   },
   {
     "id": 182,
@@ -916,7 +916,7 @@
   },
   {
     "id": 184,
-    "word": "bewerben sich",
+    "word": "sich bewerben",
     "wordArabic": "يتقدم"
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 229,
-    "word": "einigen sich",
+    "word": "sich einigen",
     "wordArabic": "يتفق | يتصالح"
   },
   {
@@ -1266,8 +1266,8 @@
   },
   {
     "id": 254,
-    "word": "entschlossen",
-    "wordArabic": "يُصمِّم | يعتزم"
+    "word": "entschließen",
+    "wordArabic": "يعتزم | يُقَرِّر"
   },
   {
     "id": 255,
@@ -1351,7 +1351,7 @@
   },
   {
     "id": 271,
-    "word": "erinnern sich",
+    "word": "sich erinnern",
     "wordArabic": "يتذكّر"
   },
   {
@@ -2171,7 +2171,7 @@
   },
   {
     "id": 435,
-    "word": "marschierten",
+    "word": "marschieren",
     "wordArabic": "يمشي بشكل عسكري"
   },
   {
@@ -2181,8 +2181,8 @@
   },
   {
     "id": 437,
-    "word": "meinten",
-    "wordArabic": "يعتقد | يعني"
+    "word": "agieren",
+    "wordArabic": "يتصرّف | يتخذ إجراء"
   },
   {
     "id": 438,
@@ -2501,13 +2501,13 @@
   },
   {
     "id": 501,
-    "word": "riefen",
-    "wordArabic": "يهتف | ينادي"
+    "word": "vernetzen",
+    "wordArabic": "يربط | يتواصل"
   },
   {
     "id": 502,
-    "word": "rufen",
-    "wordArabic": "ينادي | يصرخ | ينده"
+    "word": "rufen ' riefen",
+    "wordArabic": "ينادي | يصرخ | يهتف"
   },
   {
     "id": 503,
@@ -4476,7 +4476,7 @@
   },
   {
     "id": 896,
-    "word": "übertroffen",
+    "word": "übertreffen",
     "wordArabic": "يتَجَاوَز | يَفُوق"
   },
   {
@@ -5088,30 +5088,5 @@
     "id": 1018,
     "word": "begleichen",
     "wordArabic": "يُسدِّد | يَدفع"
-  },
-  {
-    "id": 1019,
-    "word": "stornieren",
-    "wordArabic": "يُلغي"
-  },
-  {
-    "id": 1020,
-    "word": "agieren",
-    "wordArabic": "يتصرّف | يتخذ إجراء"
-  },
-  {
-    "id": 1021,
-    "word": "vernetzen",
-    "wordArabic": "يربط | يتواصل"
-  },
-  {
-    "id": 1022,
-    "word": "optimieren",
-    "wordArabic": "يحسّن"
-  },
-  {
-    "id": 1023,
-    "word": "digitalisieren",
-    "wordArabic": "يحوّل إلى الرقمية"
   }
 ]
