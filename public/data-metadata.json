@@ -5088,5 +5088,30 @@
     "id": 1018,
     "word": "begleichen",
     "wordArabic": "يُسدِّد | يَدفع"
+  },
+  {
+    "id": 1019,
+    "word": "loben",
+    "wordArabic": "يمدح | يُثني"
+  },
+  {
+    "id": 1020,
+    "word": "konkurrieren",
+    "wordArabic": "يُنافس | يتنافس"
+  },
+  {
+    "id": 1021,
+    "word": "investieren",
+    "wordArabic": "يستثمر"
+  },
+  {
+    "id": 1022,
+    "word": "modernisieren",
+    "wordArabic": "يُحدِّث | يُطوِّر"
+  },
+  {
+    "id": 1023,
+    "word": "fortbilden",
+    "wordArabic": "يطوِّر مهاراته"
   }
 ]
