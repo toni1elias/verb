@@ -5118,5 +5118,80 @@
     "id": 1024,
     "word": "präsentieren",
     "wordArabic": "يُقدِّم | يَعرض"
+  },
+  {
+    "id": 1025,
+    "word": "kalkulieren",
+    "wordArabic": "يحسب | يقدّر التكاليف"
+  },
+  {
+    "id": 1026,
+    "word": "erstellen",
+    "wordArabic": "ينشئ | يُعِدّ وثيقة"
+  },
+  {
+    "id": 1027,
+    "word": "massieren",
+    "wordArabic": "يُدلّك"
+  },
+  {
+    "id": 1028,
+    "word": "befolgen",
+    "wordArabic": "يلتزم بـ | يتبع"
+  },
+  {
+    "id": 1029,
+    "word": "verpflichten",
+    "wordArabic": "يُلزِم | يُوجِب"
+  },
+  {
+    "id": 1030,
+    "word": "erlauben",
+    "wordArabic": "يَسمَح"
+  },
+  {
+    "id": 1031,
+    "word": "verbieten",
+    "wordArabic": "يَمنَع"
+  },
+  {
+    "id": 1032,
+    "word": "beabsichtigen",
+    "wordArabic": "يَنوي"
+  },
+  {
+    "id": 1033,
+    "word": "erfordern",
+    "wordArabic": "يَتَطَلَّب"
+  },
+  {
+    "id": 1034,
+    "word": "untersagen",
+    "wordArabic": "يَحظُر"
+  },
+  {
+    "id": 1035,
+    "word": "befähigen",
+    "wordArabic": "يُؤَهِّل"
+  },
+  {
+    "id": 1036,
+    "word": "zwingen",
+    "wordArabic": "يُجْبِر"
+  },
+  {
+    "id": 1037,
+    "word": "ausrutschen",
+    "wordArabic": "يَنْزَلِق"
+  },
+  {
+    "id": 1038,
+    "word": "sich quetschen",
+    "wordArabic": "يَنْحَشِر"
+  },
+  {
+    "id": 1039,
+    "word": "schildern",
+    "wordArabic": "يَصف | يَروي"
   }
 ]
