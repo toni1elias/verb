@@ -2641,7 +2641,7 @@
   },
   {
     "id": 529,
-    "word": "schneiden",
+    "word": "sich schneiden",
     "wordArabic": "يقطّع | يقص | يجرح"
   },
   {
@@ -2951,7 +2951,7 @@
   },
   {
     "id": 591,
-    "word": "tanken",
+    "word": "tanken | betanken",
     "wordArabic": "يتزود بالوقود"
   },
   {
@@ -3176,7 +3176,7 @@
   },
   {
     "id": 636,
-    "word": "verbrennen",
+    "word": "sich verbrennen",
     "wordArabic": "يحرق"
   },
   {
@@ -3542,7 +3542,7 @@
   {
     "id": 709,
     "word": "warten",
-    "wordArabic": "يتنظر | ينتظر"
+    "wordArabic": "ينتظر"
   },
   {
     "id": 710,
@@ -5187,11 +5187,81 @@
   {
     "id": 1038,
     "word": "sich quetschen",
-    "wordArabic": "يَنْحَشِر"
+    "wordArabic": "يسحق"
   },
   {
     "id": 1039,
     "word": "schildern",
     "wordArabic": "يَصف | يَروي"
+  },
+  {
+    "id": 1040,
+    "word": "einklemmen",
+    "wordArabic": "يَنْحَشِر | يعلق"
+  },
+  {
+    "id": 1041,
+    "word": "wegrutschen",
+    "wordArabic": "ينزلق"
+  },
+  {
+    "id": 1042,
+    "word": "absetzen",
+    "wordArabic": "يعزل | يُقيل"
+  },
+  {
+    "id": 1043,
+    "word": "prellen",
+    "wordArabic": "أُصِيبَ بِكَدْمَة"
+  },
+  {
+    "id": 1044,
+    "word": "sich verstauchen",
+    "wordArabic": "أُصِيبَ بِإلتِوَاء"
+  },
+  {
+    "id": 1045,
+    "word": "sich zerren",
+    "wordArabic": "أُصِيبَ بِشَدّ عَضَلِي"
+  },
+  {
+    "id": 1046,
+    "word": "sich quetschen",
+    "wordArabic": "أُصِيبَ بِسَحْق"
+  },
+  {
+    "id": 1047,
+    "word": "sich verrenken",
+    "wordArabic": "أُصِيبَ بِخَلْع"
+  },
+  {
+    "id": 1048,
+    "word": "sich verbrühen",
+    "wordArabic": "أُصِيبَ بِحَرْق"
+  },
+  {
+    "id": 1049,
+    "word": "desinfizieren",
+    "wordArabic": "يُعَقِّم"
+  },
+  {
+    "id": 1050,
+    "word": "impfen",
+    "wordArabic": "يُلَقِّح"
+  },
+  {
+    "id": 1051,
+    "word": "durchsuchen",
+    "wordArabic": "يُفَتِّش"
+  },
+  {
+    "id": 1052,
+    "word": "netzwerken",
+    "wordArabic": "يُكوّن علاقات مهنية"
+  },
+  {
+    "id": 1053,
+    "word": "abfertigen",
+    "wordArabic": "يُنجز | يُتمّ"
   }
 ]
